@@ -25,6 +25,14 @@ export default defineNuxtConfig({
     preset: 'service-worker',
   },
 
+  features: {
+    inlineStyles: false,
+  },
+
+  eslintConfig: {
+    setup: false,
+  },
+
   devtools: { enabled: true },
 
 })
