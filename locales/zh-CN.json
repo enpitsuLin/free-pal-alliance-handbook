@@ -4,7 +4,8 @@
     "element": "属性",
     "work_trait": "工作特性",
     "drop_items": "掉落物",
-    "skill": "技能"
+    "skill": "技能",
+    "food": "食量"
   },
   "element": {
     "grass": "草",

@@ -28,6 +28,12 @@ const { t } = useI18n()
       </div>
     </div>
     <div>
+      <h3>{{ t('common.food') }}</h3>
+      <div>
+        {{ data.food }}
+      </div>
+    </div>
+    <div>
       <h3>{{ t('common.skill') }}</h3>
       <div>
         <p>{{ data.skill.name }}</p>
