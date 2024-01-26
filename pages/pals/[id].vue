@@ -20,7 +20,7 @@ const { t } = useI18n()
   <div v-if="data">
     <h2>{{ data.name }}</h2>
     <PalElements :elements="data.element" />
-    <PalWorkTrait :work-trait="data.work_traits" />
+    <PalWorkTrait :work-suitability="data.work_suitability" />
     <div>
       <h3>{{ t("common.drop_items") }}</h3>
       <div v-for="item in data.drop_items" :key="item">

@@ -5,7 +5,7 @@ export interface Pal {
   key: string
   name: string
   element: PalElement[]
-  work_traits: WorkTrait[]
+  work_suitability: WorkSuitability[]
   drop_items: string[]
   skill: {
     name: string
@@ -14,7 +14,7 @@ export interface Pal {
   description: string
 }
 
-export interface WorkTrait {
+export interface WorkSuitability {
   type: 'handiwork' | 'transporting' | 'farming' | 'gathering' | 'mining' | 'planting' | 'lumbering' | 'medicine_production' | 'kindling' | 'watering' | 'generating_electricity' | 'cooling'
   level: number
 }

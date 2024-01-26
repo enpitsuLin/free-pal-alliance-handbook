@@ -6,7 +6,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -37,7 +37,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -71,7 +71,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 1
@@ -98,7 +98,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 1
@@ -137,7 +137,7 @@
     "element": [
       "fire"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 1
@@ -160,7 +160,7 @@
     "element": [
       "water"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -191,7 +191,7 @@
     "element": [
       "electric"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -221,7 +221,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 1
@@ -259,7 +259,7 @@
     "element": [
       "fire"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 1
@@ -283,7 +283,7 @@
       "water",
       "ice"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -319,7 +319,7 @@
       "water",
       "ice"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 2
@@ -358,7 +358,7 @@
     "element": [
       "electric"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "generating_electricity",
         "level": 1
@@ -381,7 +381,7 @@
       "grass",
       "ground"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 1
@@ -404,7 +404,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 1
@@ -431,7 +431,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 1
@@ -454,7 +454,7 @@
     "element": [
       "water"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "watering",
         "level": 1
@@ -476,7 +476,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -506,7 +506,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 1
@@ -532,7 +532,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -563,7 +563,7 @@
     "element": [
       "ground"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "mining",
         "level": 1
@@ -587,7 +587,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 1
@@ -610,7 +610,7 @@
     "element": [
       "ground"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -640,7 +640,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "transporting",
         "level": 2
@@ -666,7 +666,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "farming",
         "level": 1
@@ -688,7 +688,7 @@
     "element": [
       "water"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "transporting",
         "level": 1
@@ -714,7 +714,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 1
@@ -738,7 +738,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 1
@@ -761,7 +761,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 1
@@ -800,7 +800,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "farming",
         "level": 1
@@ -823,7 +823,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 1
@@ -862,7 +862,7 @@
     "element": [
       "water"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -892,7 +892,7 @@
     "element": [
       "ground"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -922,7 +922,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 2
@@ -958,7 +958,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "farming",
         "level": 1
@@ -981,7 +981,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 2
@@ -1009,7 +1009,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "farming",
         "level": 1
@@ -1032,7 +1032,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "lumbering",
         "level": 2
@@ -1056,7 +1056,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 2
@@ -1078,7 +1078,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -1110,7 +1110,7 @@
       "fire",
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 1
@@ -1145,7 +1145,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 2
@@ -1173,7 +1173,7 @@
     "element": [
       "fire"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 2
@@ -1200,7 +1200,7 @@
     "element": [
       "ground"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "watering",
         "level": 1
@@ -1231,7 +1231,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "lumbering",
         "level": 1
@@ -1255,7 +1255,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -1286,7 +1286,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 2
@@ -1308,7 +1308,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 2
@@ -1331,7 +1331,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 1
@@ -1374,7 +1374,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -1405,7 +1405,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 1
@@ -1451,7 +1451,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 2
@@ -1490,7 +1490,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 2
@@ -1512,7 +1512,7 @@
     "element": [
       "ice"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 1
@@ -1538,7 +1538,7 @@
     "element": [
       "ice"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 2
@@ -1565,7 +1565,7 @@
       "ice",
       "dragon"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 1
@@ -1591,7 +1591,7 @@
     "element": [
       "electric"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "generating_electricity",
         "level": 2
@@ -1619,7 +1619,7 @@
     "element": [
       "ice"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "cooling",
         "level": 2
@@ -1642,7 +1642,7 @@
     "element": [
       "fire"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 2
@@ -1669,7 +1669,7 @@
     "element": [
       "ice"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "lumbering",
         "level": 2
@@ -1698,7 +1698,7 @@
     "element": [
       "electric"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "generating_electricity",
         "level": 2
@@ -1720,7 +1720,7 @@
     "element": [
       "fire"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 2
@@ -1743,7 +1743,7 @@
     "element": [
       "electric"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "generating_electricity",
         "level": 1
@@ -1773,7 +1773,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 1
@@ -1804,7 +1804,7 @@
       "grass",
       "dragon"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 2
@@ -1830,7 +1830,7 @@
     "element": [
       "water"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "watering",
         "level": 1
@@ -1852,7 +1852,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 2
@@ -1879,7 +1879,7 @@
     "element": [
       "ground"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "mining",
         "level": 3
@@ -1902,7 +1902,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 2
@@ -1933,7 +1933,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 2
@@ -1970,7 +1970,7 @@
     "element": [
       "fire"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 1
@@ -2006,7 +2006,7 @@
       "fire",
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 1
@@ -2034,7 +2034,7 @@
     "element": [
       "fire"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 2
@@ -2073,7 +2073,7 @@
     "element": [
       "electric"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 1
@@ -2103,7 +2103,7 @@
     "element": [
       "fire"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 3
@@ -2129,7 +2129,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "medicine_production",
         "level": 2
@@ -2161,7 +2161,7 @@
     "element": [
       "fire"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 2
@@ -2192,7 +2192,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 3
@@ -2231,7 +2231,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 2
@@ -2270,7 +2270,7 @@
     "element": [
       "ice"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "medicine_production",
         "level": 2
@@ -2301,7 +2301,7 @@
     "element": [
       "dragon"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "lumbering",
         "level": 2
@@ -2323,7 +2323,7 @@
     "element": [
       "water"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "watering",
         "level": 1
@@ -2347,7 +2347,7 @@
       "water",
       "dragon"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "watering",
         "level": 3
@@ -2369,7 +2369,7 @@
     "element": [
       "ice"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -2399,7 +2399,7 @@
     "element": [
       "fire"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 3
@@ -2426,7 +2426,7 @@
       "dragon",
       "water"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "watering",
         "level": 2
@@ -2453,7 +2453,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 3
@@ -2476,7 +2476,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 3
@@ -2517,7 +2517,7 @@
       "fire",
       "ground"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 3
@@ -2543,7 +2543,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 1
@@ -2566,7 +2566,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 2
@@ -2598,7 +2598,7 @@
     "element": [
       "ice"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 2
@@ -2634,7 +2634,7 @@
       "grass",
       "ground"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 1
@@ -2668,7 +2668,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "lumbering",
         "level": 2
@@ -2691,7 +2691,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "medicine_production",
         "level": 3
@@ -2714,7 +2714,7 @@
     "element": [
       "dragon"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -2748,7 +2748,7 @@
     "element": [
       "fire"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 3
@@ -2775,7 +2775,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "transporting",
         "level": 3
@@ -2799,7 +2799,7 @@
       "dragon",
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 1
@@ -2827,7 +2827,7 @@
       "dark",
       "ground"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "lumbering",
         "level": 2
@@ -2854,7 +2854,7 @@
     "element": [
       "ground"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "handiwork",
         "level": 4
@@ -2887,7 +2887,7 @@
       "dragon",
       "water"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "watering",
         "level": 4
@@ -2909,7 +2909,7 @@
     "element": [
       "fire"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 3
@@ -2931,7 +2931,7 @@
     "element": [
       "electric"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "generating_electricity",
         "level": 3
@@ -2966,7 +2966,7 @@
     "element": [
       "grass"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "planting",
         "level": 4
@@ -3002,7 +3002,7 @@
     "element": [
       "fire"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "kindling",
         "level": 3
@@ -3029,7 +3029,7 @@
       "dragon",
       "electric"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "generating_electricity",
         "level": 4
@@ -3059,7 +3059,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 1
@@ -3083,7 +3083,7 @@
     "element": [
       "neutral"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "mining",
         "level": 2
@@ -3110,7 +3110,7 @@
     "element": [
       "dark"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "mining",
         "level": 2
@@ -3137,7 +3137,7 @@
     "element": [
       "ice"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "cooling",
         "level": 4
@@ -3160,7 +3160,7 @@
     "element": [
       "dragon"
     ],
-    "work_traits": [
+    "work_suitability": [
       {
         "type": "gathering",
         "level": 3

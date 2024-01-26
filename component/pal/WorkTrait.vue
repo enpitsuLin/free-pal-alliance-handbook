@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import type { WorkTrait } from '~/types'
+import type { WorkSuitability } from '~/types'
 
-defineProps<{ workTrait: WorkTrait[] }>()
+defineProps<{ workSuitability: WorkSuitability[] }>()
 const { t } = useI18n()
 
-const workTraitI18nMapping: Record<WorkTrait['type'], string> = {
+const workTraitI18nMapping: Record<WorkSuitability['type'], string> = {
   handiwork: t('work_trait.handiwork'),
   transporting: t('work_trait.transporting'),
   farming: t('work_trait.farming'),
@@ -25,7 +25,7 @@ const workTraitI18nMapping: Record<WorkTrait['type'], string> = {
     <h3>{{ t('common.work_trait') }}</h3>
     <div flex="~ gap-1">
       <div
-        v-for="trait in workTrait" :key="trait.type"
+        v-for="trait in workSuitability" :key="trait.type"
         flex="~ items-center justify-center gap-1"
         border="~ rounded"
         p="x1.5 y1"
