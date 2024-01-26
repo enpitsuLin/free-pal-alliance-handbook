@@ -1,3 +1,34 @@
 {
-
+  "common": {
+    "pal": "帕鲁",
+    "element": "属性",
+    "work_trait": "工作特性",
+    "drop_items": "掉落物",
+    "skill": "技能"
+  },
+  "element": {
+    "grass": "草",
+    "ground": "土",
+    "electric": "点",
+    "water": "水",
+    "fire": "火",
+    "ice": "冰",
+    "dragon": "龙",
+    "dark": "暗",
+    "neutral": "无"
+  },
+  "work_trait": {
+    "handiwork": "手工",
+    "transporting": "搬运",
+    "farming": "牧场",
+    "gathering": "采集",
+    "mining": "挖矿",
+    "planting": "播种",
+    "lumbering": "伐木",
+    "medicine_production": "制药",
+    "kindling": "生火",
+    "watering": "浇水",
+    "generating_electricity": "发电",
+    "cooling": "冷却"
+  }
 }

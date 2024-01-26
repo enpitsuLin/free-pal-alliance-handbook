@@ -1,10 +1,10 @@
-export type Element = 'grass' | 'ground' | 'electric' | 'water' | 'fire' | 'ice' | 'dragon' | 'dark' | 'neutral'
+export type PalElement = 'grass' | 'ground' | 'electric' | 'water' | 'fire' | 'ice' | 'dragon' | 'dark' | 'neutral'
 
 export interface Pal {
   id: number
   key: string
   name: string
-  element: Element[]
+  element: PalElement[]
   work_traits: WorkTrait[]
   drop_items: string[]
   skill: {

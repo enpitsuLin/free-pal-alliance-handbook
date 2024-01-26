@@ -8,6 +8,7 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     'nuxt-module-eslint-config',
     '@nuxtjs/i18n',
+    '@nuxt/image',
   ],
 
   css: [
