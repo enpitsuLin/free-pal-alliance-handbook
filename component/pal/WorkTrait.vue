@@ -29,9 +29,11 @@ const workTraitI18nMapping: Record<WorkTrait['type'], string> = {
         flex="~ items-center justify-center gap-1"
         border="~ rounded"
         p="x1.5 y1"
+        text-sm
       >
         <NuxtImg :src="`/images/work_traits/${trait.type}.webp`" />
-        <span text-sm>{{ workTraitI18nMapping[trait.type] }}</span>
+        <span>{{ workTraitI18nMapping[trait.type] }}</span>
+        <span>lv.{{ trait.level }}</span>
       </div>
     </div>
   </div>
