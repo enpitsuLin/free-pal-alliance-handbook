@@ -25,6 +25,12 @@ export default defineNuxtConfig({
       },
     },
     preset: 'service-worker',
+    serverAssets: [
+      {
+        baseName: 'dataset',
+        dir: './dataset',
+      },
+    ],
   },
 
   features: {
