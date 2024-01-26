@@ -1,4 +1,5 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
+import { i18n } from './config/i18n'
+
 export default defineNuxtConfig({
   modules: [
     '@vueuse/nuxt',
@@ -6,6 +7,7 @@ export default defineNuxtConfig({
     '@pinia/nuxt',
     '@nuxtjs/color-mode',
     'nuxt-module-eslint-config',
+    '@nuxtjs/i18n',
   ],
 
   css: [
@@ -34,5 +36,5 @@ export default defineNuxtConfig({
   },
 
   devtools: { enabled: true },
-
+  i18n,
 })
