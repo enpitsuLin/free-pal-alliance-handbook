@@ -1,0 +1,82 @@
+[
+  {
+    "name": "grass",
+    "strong": [
+      "ground"
+    ],
+    "weak": [
+      "fire"
+    ]
+  },
+  {
+    "name": "ground",
+    "strong": [
+      "electric"
+    ],
+    "weak": [
+      "grass"
+    ]
+  },
+  {
+    "name": "electric",
+    "strong": [
+      "water"
+    ],
+    "weak": [
+      "ground"
+    ]
+  },
+  {
+    "name": "water",
+    "strong": [
+      "fire"
+    ],
+    "weak": [
+      "electric"
+    ]
+  },
+  {
+    "name": "fire",
+    "strong": [
+      "grass",
+      "ice"
+    ],
+    "weak": [
+      "water"
+    ]
+  },
+  {
+    "name": "ice",
+    "strong": [
+      "dragon"
+    ],
+    "weak": [
+      "fire"
+    ]
+  },
+  {
+    "name": "dragon",
+    "strong": [
+      "dark"
+    ],
+    "weak": [
+      "ice"
+    ]
+  },
+  {
+    "name": "dark",
+    "strong": [
+      "neutral"
+    ],
+    "weak": [
+      "dragon"
+    ]
+  },
+  {
+    "name": "neutral",
+    "strong": [],
+    "weak": [
+      "Dark"
+    ]
+  }
+]
