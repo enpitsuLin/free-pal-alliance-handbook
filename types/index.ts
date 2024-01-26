@@ -6,6 +6,7 @@ export interface Pal {
   name: string
   element: PalElement[]
   work_suitability: WorkSuitability[]
+  food: number
   drop_items: string[]
   skill: {
     name: string
