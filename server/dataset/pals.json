@@ -92,7 +92,7 @@
       "name": "产蛋",
       "description": "分派到家畜牧场时有机会下蛋。"
     },
-    "description": "Extremely weak and far too delicious. It is one of the weakest Pal alongside Lamball. No matter how many are hunted, they just keep appearing."
+    "description": "它非常弱小，却又非常美味。与棉悠悠同样都是极为弱小的帕鲁。但不论再怎么对这种帕鲁展开围猎，它们也还是会从某处冒出来。"
   },
   {
     "id": 4,
@@ -132,7 +132,7 @@
       "name": "翠叶鼠出击",
       "description": "发动后会坐在玩家头上，配合玩家攻击用冲锋枪进行追击。"
     },
-    "description": "Intelligent as a five to sever-year-old human child. It makes a wonderful partner, but there have been more than a few cases where they've killed their master after learning to use weapons."
+    "description": "拥有等同于5至7岁儿童的智力。虽然很适合作为伙伴，但也有不少的记录显示，有些个体在学会使用武器后杀害了自己的主人。"
   },
   {
     "id": 5,
@@ -156,7 +156,7 @@
       "name": "抱抱火焰",
       "description": "发动后可装备在玩家身上的火焰喷射器。"
     },
-    "description": "It is unskilled at controlling fire from the moment it is born and tends to choke on the flames it breathes unintentionally. Foxparks sneezes are one of the leading causes of forest fires."
+    "description": "它刚出生时无法很好地操纵火焰，因此遇到任何事就先喷火，结果呛到自己。火绒狐的喷嚏会引起森林火灾。"
   },
   {
     "id": 6,
@@ -188,7 +188,7 @@
       "name": "乘风破浪",
       "description": "发动后冲浪鸭会乘着浪头冲向敌人。"
     },
-    "description": "Using its own body water, this Pal can create waves anywhere. It body surfs when in a hurry, but the resulting speed often ends in a fatal collision."
+    "description": "它产生的水可在任何地方形成波浪。在事态紧急时可用身体冲浪形式移动。但经常因为势头过猛，而发生撞墙而死的惨剧。"
   },
   {
     "id": 7,
@@ -219,7 +219,7 @@
       "name": "静电",
       "description": "若它在队伍中，雷属性帕鲁的攻击力会有所提升。"
     },
-    "description": "During the dry season, this Pal is always on the verge of blowing a fuse, Sparks can fly with even the slightest provocation even amongst allies."
+    "description": "它在旱季时期容易精神紧绷，总是一触即发。旦和同伴发生摩擦，就会演变成电火花四溅的大战。"
   },
   {
     "id": 8,
@@ -258,7 +258,7 @@
       "name": "猴急步枪",
       "description": "发动后在一定时间内以突击步枪猛力扫射附近敌人。"
     },
-    "description": "Long ago, this Pal used long objects like tree branches as weapons. After coming into contact with humans, however, it found something much more effective: guns."
+    "description": "在古时这种帕鲁会使用树枝等细长状的物品作为武器。但在它们与人类频繁接触后，便不再使用这些物品。因为它们发现了同样细长，却更为高效的“枪械”"
   },
   {
     "id": 9,
@@ -282,7 +282,7 @@
       "name": "微小火种",
       "description": "若它在队伍中，火属性帕鲁的攻击力会有所提升。"
     },
-    "description": "Wild Rooby surprisingly never get sick. Eating one piece of charcoal a day, made by burning a branch, is the secret to its eternal health."
+    "description": "野生的燎火鹿从不生病，让人相当惊讶。据说这种帕鲁永保健康的秘决，就是每天吃掉一根用树枝烧成的木炭。"
   },
   {
     "id": 10,
@@ -319,7 +319,7 @@
       "name": "企丸丸发射",
       "description": "发动后玩家将装备火箭发射器，可将企丸丸当作炮弹射出，命中目标后企丸丸会爆炸并陷入濒死状态。"
     },
-    "description": "The feathers of this Pal have all but disappeared, but sadly, its desire to fly has remained as strong as ever. Even now, it tries to fly again in any way it can."
+    "description": "它的翅膀已完全退化，无法飞翔。但基因中刻着对天空的向往。因此它想尽办法，想要再一次飞翔"
   },
   {
     "id": 11,
@@ -360,7 +360,7 @@
       "name": "勇敢的海之战士",
       "description": "与它并肩作战时，若击倒火属性的帕鲁，就能从该帕鲁身上获得更多掉落道具。"
     },
-    "description": "Surprisingly, it is unrelated to Pengullet. Ever wanting to be the center of attention, this Pal will strut its stuff for any onlookers."
+    "description": "其实它与企丸丸是毫无关系的种类但因为什么都不做就能获得大家的追捧所以就努力摆出一副高傲的态度。"
   },
   {
     "id": 12,
@@ -383,10 +383,33 @@
       "name": "电击炸弹",
       "description": "发动后将电棘鼠装备在手上，若将它投向敌人且命中目标，便会引发雷爆。"
     },
-    "description": "Releases the electricity stored in it's body when under attack, producing a shock that can be over 10 million volts. If thrown, it can even be more lethal than any conventional heavy weaponry."
+    "description": "它在受到冲击后会释放储存的电力。它的电压超过1000万伏特。将它扔出去的话，威力比普通的重型炮弹危险得多。"
   },
   {
     "id": 13,
+    "key": "012B",
+    "name": "冰刺鼠",
+    "element": [
+      "ice"
+    ],
+    "work_suitability": [
+      {
+        "type": "cooling",
+        "level": 1
+      }
+    ],
+    "food": 2,
+    "drop_items": [
+      "结冰器官"
+    ],
+    "skill": {
+      "name": "冻结炸弹",
+      "description": "发动后就能将冰刺鼠装备在手上若将投向敌人且命中自标，便会引发冰爆。"
+    },
+    "description": "它在受到冲击后会释放储存的冷气。它发射的冷气呈放射状，可冻结大气。攻击它的对象会被击穿身体。"
+  },
+  {
+    "id": 14,
     "key": "013",
     "name": "叶泥泥",
     "element": [
@@ -408,10 +431,10 @@
       "name": "樵夫啦啦队",
       "description": "若它在队伍中，玩家采伐时将能造成更多伤害。"
     },
-    "description": "A strange Pal with a body resembling tree sap. It gradually loses strength if it has nothing to cover its body with, eventually rotting away."
+    "description": "身体如树汁一般，是一种非常不可思议的帕鲁。如果失去了头顶的新芽，便会渐渐枯菱。最终走向腐烂殆尽的结局。"
   },
   {
-    "id": 14,
+    "id": 15,
     "key": "014",
     "name": "玉藻狐",
     "element": [
@@ -436,10 +459,10 @@
       "name": "挖掘指导",
       "description": "将它分派到家畜牧场，有机会从地里挖出道具。"
     },
-    "description": "The idol of Palpagos Island. If you bully a Vixy, you best be prepared to become enemies with the whole world."
+    "description": "帕洛斯群岛的偶像。胆敢欺负玉藻狐的人会在转眼间成为全民公敌。"
   },
   {
-    "id": 15,
+    "id": 16,
     "key": "015",
     "name": "啼卡尔",
     "element": [
@@ -460,10 +483,10 @@
       "name": "暗影睿智",
       "description": "若它在队伍中，暗属性帕鲁的攻击力会有所提升。"
     },
-    "description": "Often lost in thought, it sometimes finds it difficult to sleep. \"I think, therefore I am.\""
+    "description": "这类帕鲁经常会陷入沉思，且会因过度思考而失眠。“我思故我在”"
   },
   {
-    "id": 16,
+    "id": 17,
     "key": "016",
     "name": "壶小象",
     "element": [
@@ -483,10 +506,10 @@
       "name": "疗伤之浴",
       "description": "发动后会喷出对伤口极有疗效的神秘之水，可恢复玩家的生命值。"
     },
-    "description": "Large amounts of water pour from what is thought to be its nose, though some say that it is, in fact, just snot. This  has sparked a fierce debate among Pal scholars."
+    "description": "它那被认为是鼻子的器官会喷出大量的水。虽然也有人指出那只是鼻递罢了，但是研究者们仍然为此进行了热烈的讨论。"
   },
   {
-    "id": 17,
+    "id": 18,
     "key": "017",
     "name": "瞅什魔",
     "element": [
@@ -514,10 +537,10 @@
       "name": "摄取咖啡因",
       "description": "发动后瞅什魔会大量饮用能量饮料，在一定时间内大幅提升自己的移动速度。"
     },
-    "description": "It has few friends because of the perpetually grouchy look on its face, but it is in fact kindhearted. Some have seen it feeding Vixy who have strayed from their pack."
+    "description": "它眼神凶恶，朋友也很少，但其实心地很善良。有人會自击到它向离群的玉藻狐分享食物。"
   },
   {
-    "id": 18,
+    "id": 19,
     "key": "018",
     "name": "米露菲",
     "element": [
@@ -541,10 +564,10 @@
       "name": "蓬松毛毛",
       "description": "若它在队伍中，无属性帕鲁的攻击力会有所提升。将它分派到家畜牧场有机会掉落羊毛。"
     },
-    "description": "Compared to Lamball, it has finer wool and a temperament more suited for domestication. However, it has historically been kept as a pet. Cuteness is considered a virtue."
+    "description": "与棉悠悠相较，这种帕鲁的毛质更加优良，个性也更适合作为家畜。但历史上这种帕鲁总是被当成宠物。毕竟可爱就是正义。"
   },
   {
-    "id": 19,
+    "id": 20,
     "key": "019",
     "name": "寐魔",
     "element": [
@@ -573,10 +596,10 @@
       "name": "逐梦者",
       "description": "若它在队伍中，就会出现在玩家身边，它会配合玩家的攻势以魔弹追击。"
     },
-    "description": "It puts those it is interested in to sleep and shows them an endless stream of happy dreams. Those who fall under its spell are never to wake until death takes them."
+    "description": "它可以使心仪的对象陷入熟睡当中并使对方永远做着幸福的美梦。直到死亡来临之前都不会醒来。"
   },
   {
-    "id": 20,
+    "id": 21,
     "key": "020",
     "name": "草莽猪",
     "element": [
@@ -598,10 +621,10 @@
       "name": "坚硬头壳",
       "description": "可骑在它的背上，骑乘期间破坏岩石的效率会提高。"
     },
-    "description": "Being extremely aggressive Pal, it often picks fights before gauging its opponent's strength. Though small, its powerful charge can even send boulders flying."
+    "description": "它十分好战，会在弄清双方力量差距前挑事。虽然身材娇小，但拥有惊人的冲锋威力，甚至能弹飞巨大岩石。"
   },
   {
-    "id": 21,
+    "id": 22,
     "key": "021",
     "name": "露娜蒂",
     "element": [
@@ -622,10 +645,10 @@
       "name": "冷娇",
       "description": "与它并肩作战时，它会为玩家的攻击赋予暗属性。"
     },
-    "description": "If you find Nox hair in your bedding, you should leave it where it lays and leave immediately. Picking it up is a one-way-ticket to a never ending night."
+    "description": "如果在夜路上发现了露娜蒂的毛最好不要将它起，而是直接原路返回。因为那是通往无尽黑夜的单程票。"
   },
   {
-    "id": 22,
+    "id": 23,
     "key": "022",
     "name": "遁地鼠",
     "element": [
@@ -653,10 +676,10 @@
       "name": "探测矿石",
       "description": "发动后发出微小的震动，可探测附近的矿石位置。"
     },
-    "description": "Its large claws boast of diamond-like hardness. However, sharpening these claws consumes most of its energy, leading it to sometimes spending entire days doing nothing else."
+    "description": "它的巨大爪子的硬度宛如钻石般坚固。因为磨爪子需要消耗不少能量，所以有时候等它磨完爪子，一天就过去了。"
   },
   {
-    "id": 23,
+    "id": 24,
     "key": "023",
     "name": "勾魂鱿",
     "element": [
@@ -680,10 +703,10 @@
       "name": "炸鱿鱼",
       "description": "若它在队伍中，可召唤它来代替滑翔伞。滑翔期间可长时间漂浮在空中。"
     },
-    "description": "It wraps itself around an enemy's head, sucking out their insides. Pal mummies are occasionally found, but these are in fact Killamari victims."
+    "description": "它会咬住敌人的脖子，将对方身体吸干。帕鲁木乃伊极为罕见，而它们基本上都是勾魂鱿的牺牲品。"
   },
   {
-    "id": 24,
+    "id": 25,
     "key": "024",
     "name": "喵丝特",
     "element": [
@@ -703,10 +726,38 @@
       "name": "招财猫",
       "description": "将它分派到家畜牧场，有机会从地里挖出金币。"
     },
-    "description": "Its hard tail does not deteriorate even when cut off. Some believed these severed tails to be good luck, but for the innumerable Mau who were poached as a result, they were anything but."
+    "description": "它尾部的硬化组织即使割下后也不会发生劣化。但人们迷信它的尾部能招来财运，导致许多喵丝特因此陨命。"
   },
   {
-    "id": 25,
+    "id": 26,
+    "key": "024B",
+    "name": "冰丝特",
+    "element": [
+      "dark"
+    ],
+    "work_suitability": [
+      {
+        "type": "cooling",
+        "level": 1
+      },
+      {
+        "type": "farming",
+        "level": 1
+      }
+    ],
+    "food": 1,
+    "drop_items": [
+      "结冰器官",
+      "蓝宝石"
+    ],
+    "skill": {
+      "name": "招财猫",
+      "description": "将它分派到家畜牧场，有机会从地里挖出金币。"
+    },
+    "description": "它尾部的结晶非常美丽，但它死去时结晶也会随之崩解。不过人们迷信大量饲养它能够招来财运，于是冰丝特通常都会得到悉心的照料。"
+  },
+  {
+    "id": 27,
     "key": "025",
     "name": "鲁米儿",
     "element": [
@@ -730,10 +781,10 @@
       "name": "微风滑翔",
       "description": "若它在队伍中，能召唤它来代替滑翔伞。\n滑翔期间可长时间迅速移动。"
     },
-    "description": "Riding the wind, this Pal travels where it pleases. Should it find a partner along the way, the encounter will mark its journey's end."
+    "description": "它会乘着风任其带它翱翔四方。只要在旅途中找到命中之人，就会结束自己的旅程。"
   },
   {
-    "id": 26,
+    "id": 28,
     "key": "026",
     "name": "猎狼",
     "element": [
@@ -753,12 +804,12 @@
     ],
     "skill": {
       "name": "猎狼骑手",
-      "description": "可骑在它背上移动。\n骑乘期间的移动速度会稍微变快一点。"
+      "description": "可骑在它背上移动。骑乘期间的移动速度会稍微变快一点。"
     },
-    "description": "Long ago Direhowl would hunt alongside humans but over the years this bond faded."
+    "description": "猎狼与人类之间的关联早已淡化，但过去与人类共同狩猎的模式，构成了它们如今的狩猎体系。"
   },
   {
-    "id": 27,
+    "id": 29,
     "key": "027",
     "name": "炸蛋鸟",
     "element": [
@@ -779,10 +830,10 @@
       "name": "炸蛋发射器",
       "description": "发动后化身为装备在玩家身上的发射器，可制造会爆炸的蛋。"
     },
-    "description": "A frightening Pal that produces exploding eggs. It often fires these eggs from its rear end as a weapon, but when spent the Pal itself explodes."
+    "description": "这类帕鲁产下的蛋会爆炸，相当恐怖。平时会将从屁股射出的蛋用作武器不过若它无计可施，它就会采取自爆手段了。"
   },
   {
-    "id": 28,
+    "id": 30,
     "key": "028",
     "name": "波娜兔",
     "element": [
@@ -819,10 +870,10 @@
       "name": "兔兔助手",
       "description": "若它在队伍中就会出现在玩家身边，它会自动拾取附近道具"
     },
-    "description": "It prefers places that have an abundance of vegetation, but hay fever has apparently become a problem for Flopie as of late."
+    "description": "它喜欢植物众多的地方但是最近，波娜兔似乎集体染上了花粉症。"
   },
   {
-    "id": 29,
+    "id": 31,
     "key": "029",
     "name": "波霸牛",
     "element": [
@@ -843,10 +894,10 @@
       "name": "产奶",
       "description": "将它分派到家畜牧场，有机会生产牛奶。"
     },
-    "description": "Milk pours from this Pal like water from an open faucet, regardless of its gender. It's truly a mystery of life, although this mystery may be better left unsolved."
+    "description": "这种帕鲁不须特意照料，无论其性别为何都会像水龙头般地分泌大量牛奶。这就是生命的神秘之处吧。"
   },
   {
-    "id": 30,
+    "id": 32,
     "key": "030",
     "name": "荆棘魔仙",
     "element": [
@@ -883,10 +934,10 @@
       "name": "公主的视线",
       "description": "若它在队伍中，草属性帕鲁的攻击会有所提升。"
     },
-    "description": "This prickly Pal's thorns are highly poisonous. It is friendly with Cinnamoth and only smiles when Cinnamoth is drinking its nectar."
+    "description": "它的刺上有毒，被刺到会有危险。与幻悦蝶关系很好，只有让它吸花蜜时，会露出开心的表情。"
   },
   {
-    "id": 31,
+    "id": 33,
     "key": "031",
     "name": "鲨小子",
     "element": [
@@ -914,10 +965,41 @@
       "name": "易怒鲨鲨",
       "description": "发动后会以威力极高的水枪，攻击锁定的目标敌人。若它在队伍中，会提升玩家的攻击力。"
     },
-    "description": "Long ago, it was a large and powerful aquatic Pal.\nAs food became scarce it evolved to live on land.\nSince walking requires much energy, it gradually became smaller and is now a small and puny Pal."
+    "description": "它在远古會是实力强大的巨型水栖帕鲁但因为食物减少而被迫登陆生活。由于走路需要消耗许多能量，导致它们的体型逐渐变小，现在已经是非常弱小的帕鲁了。"
   },
   {
-    "id": 32,
+    "id": 34,
+    "key": "031B",
+    "name": "红小鲨",
+    "element": [
+      "water"
+    ],
+    "work_suitability": [
+      {
+        "type": "handiwork",
+        "level": 1
+      },
+      {
+        "type": "transporting",
+        "level": 1
+      },
+      {
+        "type": "kindling",
+        "level": 2
+      }
+    ],
+    "food": 3,
+    "drop_items": [
+      "喷火器官"
+    ],
+    "skill": {
+      "name": "易怒鲨鲨",
+      "description": "发动后会以威力极高的烈焰溅射攻击锁定的目标敌人。若它在队伍中，会提升玩家的攻击力。"
+    },
+    "description": "这种帕鲁在很久以前是相当强大的巨型水栖帕鲁但食物减少后，它们就搬到了陆地上。走路会燃烧许多热量，也意外地让它们体内的火之力量觉醒了！"
+  },
+  {
+    "id": 35,
     "key": "032",
     "name": "吊缚灵",
     "element": [
@@ -945,10 +1027,46 @@
       "name": "空中秋千",
       "description": "若它在队伍中，能召唤它来代替滑翔伞。滑翔期间它会将玩家高高举起。"
     },
-    "description": "Its gigantic arms can rip apart even iron.\nAs a particularly cruel form of execution, serious criminals would be strung up in a public square, and a Hangyu would rip off the skin from their 骨头s."
+    "description": "它的那双巨大的手臂就连铁块都能撕裂。过去會有过将犯下重罪的人绑在城镇的广场上，让吊缚灵直接撕下他的肉这种极端残忍的处刑。"
   },
   {
-    "id": 33,
+    "id": 36,
+    "key": "032B",
+    "name": "冰缚灵",
+    "element": [
+      "ice"
+    ],
+    "work_suitability": [
+      {
+        "type": "handiwork",
+        "level": 1
+      },
+      {
+        "type": "transporting",
+        "level": 2
+      },
+      {
+        "type": "cooling",
+        "level": 1
+      },
+      {
+        "type": "gathering",
+        "level": 1
+      }
+    ],
+    "food": 2,
+    "drop_items": [
+      "纤维",
+      "结冰器官"
+    ],
+    "skill": {
+      "name": "空中秋千",
+      "description": "若它在队伍中，能召唤它来代替滑翔伞。滑翔期间它会将玩家高高举起。"
+    },
+    "description": "它那巨大的双臂就连冰砖都能撕碎。据说以前犯下重罪之人会被绑在城镇广场上，让冰缚灵直接扯下他们的头发，是种极为残忍的警示性惩罚。"
+  },
+  {
+    "id": 37,
     "key": "033",
     "name": "叶胖达",
     "element": [
@@ -982,10 +1100,47 @@
       "name": "不良熊猫",
       "description": "可骑在它的背上移动，骑乘期间还能用榴弹发射器连续攻击。"
     },
-    "description": "A Pal so powerful it's hard to believe. In one experiment, this Pal tore through 3,000 sheets of paper at once! It's only by some miracle that this Pal isn't a meat-eater."
+    "description": "它拥有令人难以置信的力量。在某次实验中，它甚至可以轻松撕破3000张叠在一起的纸。你我都该庆幸它并不是肉食性帕鲁。"
   },
   {
-    "id": 34,
+    "id": 38,
+    "key": "033B",
+    "name": "雷胖达",
+    "element": [
+      "electric"
+    ],
+    "work_suitability": [
+      {
+        "type": "generating_electricity",
+        "level": 2
+      },
+      {
+        "type": "handiwork",
+        "level": 2
+      },
+      {
+        "type": "lumbering",
+        "level": 2
+      },
+      {
+        "type": "transporting",
+        "level": 3
+      }
+    ],
+    "food": 5,
+    "drop_items": [
+      "蘑菇",
+      "发电器官",
+      "皮革"
+    ],
+    "skill": {
+      "name": "不良熊猫",
+      "description": "可骑在它的背上移动，骑乘期间还能用榴弹发射器连续攻击。"
+    },
+    "description": "它拥有令人难以置信的力量。可以将电力转为神经信号，突破身体能力的极限。只要提到最强生物，就必定有它。"
+  },
+  {
+    "id": 39,
     "key": "034",
     "name": "棉花糖",
     "element": [
@@ -1006,10 +1161,10 @@
       "name": "糖果甜心",
       "description": "分派到家畜牧场，可能掉落棉花糖。"
     },
-    "description": "Its entire body is 18,000 times sweeter than sugar.\nCarnivorous Pals lured by its scent will find themselves overwhelmed by sweetness and even pass out should they take a bite of this Pal."
+    "description": "它全身上下都比糖还要甜18000倍。被它的气味吸引的肉食帕鲁只要咬上一口，就会被甜到翻白眼昏迷。"
   },
   {
-    "id": 35,
+    "id": 40,
     "key": "035",
     "name": "灌木羊",
     "element": [
@@ -1035,10 +1190,10 @@
       "name": "采摘野莓",
       "description": "分派到家畜牧场，有机会掉落红色莓果。"
     },
-    "description": "The shrub on this pal's back produces berries as long as it is properly fed. It offers these berries to potential mates, and if the flavor is to their liking, romance blossoms."
+    "description": "只要它肚子不饿，它背上的草丛就会结出野莓。若它遇见中意的对象，它会请对方吃掉自己的野莓抓住了对方的胃，就诞生了一对新的伴侣。"
   },
   {
-    "id": 36,
+    "id": 41,
     "key": "036",
     "name": "美露帕",
     "element": [
@@ -1059,10 +1214,10 @@
       "name": "蓬蓬羊毛",
       "description": "可骑在它背上移动。将它分派到家畜牧场，有机会掉落羊毛。"
     },
-    "description": "Don't be fooled by its fluffy appearance. A hypersonic kick from one of its long legs may send you flying to the other side of the world."
+    "description": "可别被它那毛茸茸的外表给骗了。若下由它那双长腿电出的一记超高速踢击，整个人可是会飞到地球的另一端。"
   },
   {
-    "id": 37,
+    "id": 42,
     "key": "037",
     "name": "紫霞鹿",
     "element": [
@@ -1084,10 +1239,35 @@
       "name": "森林守护者",
       "description": "可骑在它背上移动。骑乘期间可以二段跳。破坏树木的效率也会提高。"
     },
-    "description": "The one who possesses the most impressive antlers becomes the leader of the herd. If their antlers are broken, they become depressed and leave the herd never to be seen again."
+    "description": "角长得最富有力量感的个体会成为这种帕鲁的领袖。会伴随特角断裂而大受打击。这时候它就会默默离开族群，在远离人烟的地方结束一生。"
   },
   {
-    "id": 38,
+    "id": 43,
+    "key": "037B",
+    "name": "祇岳鹿",
+    "element": [
+      "ground"
+    ],
+    "work_suitability": [
+      {
+        "type": "lumbering",
+        "level": 2
+      }
+    ],
+    "food": 5,
+    "drop_items": [
+      "紫霞鹿的鹿肉",
+      "皮革",
+      "角"
+    ],
+    "skill": {
+      "name": "山脉守护者",
+      "description": "可骑在它背上移动。骑乘期间可以二段跳。破坏树木的效率也会提高。"
+    },
+    "description": "角最为坚硬的个体，会成为这种帕鲁的首领。一旦失去了角，它的领袖地位也将不复存在。只能在同伴的自送下离开，悄然回归尘土。"
+  },
+  {
+    "id": 44,
     "key": "038",
     "name": "疾风隼",
     "element": [
@@ -1107,10 +1287,10 @@
       "name": "旅伴",
       "description": "可骑在它的背上在空中飞行。"
     },
-    "description": "It carries newborn Pals to its nest and raises them as a surrogate parent. \nOnce the baby Pal has fattened up, it hunts them."
+    "description": "它会将刚出生的帕鲁抓到巢中代替父母养育它长大。等到能吃的时候，就会猎杀它。"
   },
   {
-    "id": 39,
+    "id": 45,
     "key": "039",
     "name": "姬小兔",
     "element": [
@@ -1139,10 +1319,10 @@
       "name": "巧手",
       "description": "若它在队伍中，无属性帕鲁的攻击力会有所提升。若它在据点里，武器制作台工作的效率会有所提升。"
     },
-    "description": "A Pal who's never without a bright smile. Occasionally, it gets its tentacles tied up in knots by Cattiva's pranks. During those moments, its expression changes into something altogether demonic."
+    "description": "这种帕鲁的脸上总是挂著微笑。捣蛋猫偶尔会恶作剧，把它的缎带打成死结只有这种时候它会露出恶鬼般的神色。"
   },
   {
-    "id": 40,
+    "id": 46,
     "key": "040",
     "name": "炎魔羊",
     "element": [
@@ -1176,10 +1356,42 @@
       "name": "焰爪猎人",
       "description": "发动后会以威力极高的狱火爪攻击锁定的目标敌人。"
     },
-    "description": "In the dark of night, this Pal snatches prey to bring back ot its territory.\nWhat happens to those poor souls afterwards isn't too hard to imagine."
+    "description": "它会在夜晚捕猎后，将猎物带回自己的领地。那些被抓住的帕鲁，之后会遭受何种对待，就不难想象了。"
   },
   {
-    "id": 41,
+    "id": 47,
+    "key": "040B",
+    "name": "暗魔羊",
+    "element": [
+      "dark"
+    ],
+    "work_suitability": [
+      {
+        "type": "handiwork",
+        "level": 2
+      },
+      {
+        "type": "transporting",
+        "level": 2
+      },
+      {
+        "type": "mining",
+        "level": 1
+      }
+    ],
+    "food": 4,
+    "drop_items": [
+      "角",
+      "皮革"
+    ],
+    "skill": {
+      "name": "黑爪猎人",
+      "description": "发动后会以威力极高的恶梦加攻击锁定的自标敌人。"
+    },
+    "description": "它只对帕鲁幼惠感兴趣，会将其掠走带回自己的地盘不难想象，那些被夺走幼患的帕鲁们会陷入多么绝望的境地。"
+  },
+  {
+    "id": 48,
     "key": "041",
     "name": "幻悦蝶",
     "element": [
@@ -1205,10 +1417,10 @@
       "name": "神秘鳞粉",
       "description": "发动后，会以毒雾攻击锁定的敌人"
     },
-    "description": "Sniffing its scales produces a feeling of unparalleled euphoria.\nThere was some effort to further regulate this byproduct, but the Free Pal Alliance have vehemently opposed these measures, putting a stop to them."
+    "description": "吸人它的鳞粉后，会获得升天般的愉悦感。虽然有人试图对这种帕鲁严加管理，但受到帕鲁保护团体的反对，至今没有进展。"
   },
   {
-    "id": 42,
+    "id": 49,
     "key": "042",
     "name": "炽焰牛",
     "element": [
@@ -1233,10 +1445,10 @@
       "name": "温暖之躯",
       "description": "可骑在它背上移动。骑乘期间不会感受到寒意。"
     },
-    "description": "In ancient times, carnivorous Pals pursued them relentlessly.\nThe Arsox's irrational rage transformed into a raging inferno, which has been passed on to this day."
+    "description": "昔日这种帕鲁常常被肉食帕鲁所猎杀。炽焰牛对此深感不平于是这股惯怒化作炽热的火焰，在世代之间代代相传。"
   },
   {
-    "id": 43,
+    "id": 50,
     "key": "043",
     "name": "趴趴鲶",
     "element": [
@@ -1265,10 +1477,10 @@
       "name": "改善土质",
       "description": "若它在队伍中，地属性帕鲁的攻击力会有所提升。"
     },
-    "description": "When too relaxed, its reaction time drastically declines.\nEven if it were sliced from head to tail, it probably wouldn't even realize that it should be dead until the next morning."
+    "description": "这种帕鲁过于放松时，所有反应都会变得极为迟缓。即使身中28刀，大概也要到隔天早上它戈会发现自己早该死去。"
   },
   {
-    "id": 44,
+    "id": 51,
     "key": "044",
     "name": "黑鸦隐士",
     "element": [
@@ -1290,10 +1502,10 @@
       "name": "幻影突袭",
       "description": "发动后会以威力极高的幻影突袭，攻击锁定的目标敌人。"
     },
-    "description": "Long ago it freely soared the skies. After losing a contest with Galeclaw, it abandoned the skies and now lives a quiet nocturnal life."
+    "description": "它會经在天空中自由翱翔，但在与天擒鸟的竞争中败北，于是舍弃天空，过起了与黑夜共生的低调生活。"
   },
   {
-    "id": 45,
+    "id": 52,
     "key": "045",
     "name": "朋克蜥",
     "element": [
@@ -1322,10 +1534,46 @@
       "name": "第六感",
       "description": "发动后能探测附近的地下城位置。"
     },
-    "description": "A Pal that always takes great care to maintain a stylish stance. Always on the hunt for the coolest poses, if given a mirror it will spend all day posing in front of it."
+    "description": "它对站姿有异常的执着。总是追求着最帅气的姿势。给它一面镜子的话，它能为研究姿势而站一整天"
   },
   {
-    "id": 46,
+    "id": 53,
+    "key": "045B",
+    "name": "热血蜥",
+    "element": [
+      "dark"
+    ],
+    "work_suitability": [
+      {
+        "type": "handiwork",
+        "level": 1
+      },
+      {
+        "type": "kindling",
+        "level": 1
+      },
+      {
+        "type": "transporting",
+        "level": 1
+      },
+      {
+        "type": "gathering",
+        "level": 1
+      }
+    ],
+    "food": 3,
+    "drop_items": [
+      "喷火器官",
+      "银钥匙"
+    ],
+    "skill": {
+      "name": "第六感",
+      "description": "发动后能够发动第六感，来探测附近的地下城位置。"
+    },
+    "description": "它对站姿的讲究程度相当不寻常。它总是在寻找最热血的姿势因此它的饲主会被迫整天欣赏热血到让人烦躁的姿势"
+  },
+  {
+    "id": 54,
     "key": "046",
     "name": "月镰魔",
     "element": [
@@ -1345,10 +1593,10 @@
       "name": "闪亮利爪",
       "description": "发动后会以威力极高的飞跃爪击，攻击锁定的目标敌人。"
     },
-    "description": "The horns on its head grow under the moonlight. It doesn't hate the sun, but its horns itch when sunlight hits them."
+    "description": "它头上的角可通过沐浴月光生长。虽然这种帕鲁并不讨厌阳光，可是它的角在被太阳照射时会发痒"
   },
   {
-    "id": 47,
+    "id": 55,
     "key": "047",
     "name": "天擒鸟",
     "element": [
@@ -1369,10 +1617,10 @@
       "name": "天擒鸟滑翔",
       "description": "若它在队伍中，能召唤它来代替滑翔伞，滑翔期间右手会空出来，因此可以持枪射击。"
     },
-    "description": "A Pal that can easily take flight even while grasping a human.\n It is, however, prone to letting go when tired, which has led to the sudden demise of more than a few souls."
+    "description": "即使它抓着人，也能毫不费力地飞向天空。可是在疲意至极时就会二话不说地松开脚爪，因而导致的高空坠落死亡事故见不鲜。"
   },
   {
-    "id": 48,
+    "id": 56,
     "key": "048",
     "name": "羽箭射手",
     "element": [
@@ -1413,10 +1661,51 @@
       "name": "鹰眼",
       "description": "与它并肩作战时，玩家将能对敌方弱点部位造成更多伤害。"
     },
-    "description": "A pal that is very similar to humans who hunt and live in the forests. It may prove to be a key for understanding what Pals are and how they diverged from humans so long ago."
+    "description": "这类帕鲁在森林里过着狩猎生活，特征习性等与人类十分接近。在远古时代，便走上了与人类不同的进化之路。但也许它们就是能解答“帕鲁为何物”这个问题的关键。"
   },
   {
-    "id": 49,
+    "id": 57,
+    "key": "048B",
+    "name": "山岳射手",
+    "element": [
+      "ground",
+      "grass"
+    ],
+    "work_suitability": [
+      {
+        "type": "handiwork",
+        "level": 2
+      },
+      {
+        "type": "gathering",
+        "level": 2
+      },
+      {
+        "type": "lumbering",
+        "level": 1
+      },
+      {
+        "type": "transporting",
+        "level": 2
+      },
+      {
+        "type": "medicine_production",
+        "level": 1
+      }
+    ],
+    "food": 3,
+    "drop_items": [
+      "小麦种子",
+      "箭"
+    ],
+    "skill": {
+      "name": "鹰眼",
+      "description": "与它并肩作战时，玩家将能对敌方弱点部位造成更多伤害。"
+    },
+    "description": "在岩石地带过着狩猎生活的，具有极其类似于人类性格的帕鲁每当从遗址中发现山岳射手的骨头时，那里总是一定会有人类的骨头"
+  },
+  {
+    "id": 58,
     "key": "049",
     "name": "铁拳猿",
     "element": [
@@ -1445,10 +1734,10 @@
       "name": "火力全开",
       "description": "发动后解放野性之力，在一定时间内提升铁拳猿的攻击力。"
     },
-    "description": "It beats the ground rhythmically to communicate with its comrades. The meaning of each rhythm differs by troop, but the distinction between them is still largely unknown."
+    "description": "它会用不同的节奏敲击地面与同伴沟通。每种节奏所对应的意思会根据族群有所差异但人类至今仍未能完全理解其体分类"
   },
   {
-    "id": 50,
+    "id": 59,
     "key": "050",
     "name": "骑士蜂",
     "element": [
@@ -1492,10 +1781,10 @@
       "name": "工蜂",
       "description": "将它分派到家畜牧场，有机会掉落蜂蜜。若它在队伍中，女皇蜂的属性会有所提升。"
     },
-    "description": "A servant that pledges loyalty to Elizabee.\nAny that cause harm to the queen are immediately expelled from the hive.\nIt will gladly give its life to protect its queen."
+    "description": "它是发誓效忠女皇蜂的仆人。暂死消灭对女王有害的一切事物。甚至不惜采取自爆手段，也要守卫女主到最后一刻"
   },
   {
-    "id": 51,
+    "id": 60,
     "key": "051",
     "name": "女王蜂",
     "element": [
@@ -1532,10 +1821,10 @@
       "name": "女王蜂的统帅",
       "description": "与它并肩作战时，在队伍中的骑士蜂数量越多，它的属性就能提升越多。"
     },
-    "description": "A chosen queen to rule over Beegardes.\nThere is a never ending stream of servants willing to work themselves to death for the pleasure of serving their queen."
+    "description": "它是统御骑士蜂的天选女王。为伟大女王效力的喜悦让无数甘愿为其劳动至死的仆人络绎不绝。"
   },
   {
-    "id": 52,
+    "id": 61,
     "key": "052",
     "name": "笑靥猫",
     "element": [
@@ -1555,10 +1844,10 @@
       "name": "丰润之躯",
       "description": "可骑在他的背上移动，骑乘期间的无属性攻击将得到强化。"
     },
-    "description": "Grintale's eyes light up the moment anyone enters its territory.\nThis is no figure of speech-its eyes literally light up."
+    "description": "它眼神凶恶，朋友也很少，但其实心地很善良。有人會目击到它向离群的玉藻狐分享食物。"
   },
   {
-    "id": 53,
+    "id": 62,
     "key": "053",
     "name": "毛掸儿",
     "element": [
@@ -1582,10 +1871,10 @@
       "name": "毛茸茸茸茸",
       "description": "若它在队伍中，毛老爹的属性会有所提升。"
     },
-    "description": "Crawling along the ground, it eats microscopic organic matter.\nAfter a while, it discharges any substances that provide no nutrition.\nBy using it as a mop for cleaning, everyone wins!"
+    "description": "在地面爬行，并以微小的有机物为食的帕鲁。摄入的没营养的物质一段时间后会排出体外。将它用作拖把进行清洁的话，就能构筑双赢的关系。"
   },
   {
-    "id": 54,
+    "id": 63,
     "key": "054",
     "name": "毛老爹",
     "element": [
@@ -1609,10 +1898,10 @@
       "name": "毛茸茸之王",
       "description": "可骑在它背上移动，与它并肩作战时，队伍中的毛撢儿数量越多，它的属性就能提升越多。"
     },
-    "description": "While hibernating, a large number of Swee hide within its voluminous body hair.\nThe most ever recorded is 101."
+    "description": "由于它拥有相当丰厚的体毛因此在冬眠期间会有大量的毛掸儿躲在它的体毛里。过去的最高记录竟然高达101只。"
   },
   {
-    "id": 55,
+    "id": 64,
     "key": "055",
     "name": "疾旋鼬",
     "element": [
@@ -1637,10 +1926,10 @@
       "name": "扭扭鼬鼬",
       "description": "可骑在它背上移动，骑乘期间它会为玩家的攻击赋予龙属性。"
     },
-    "description": "It can curl up its body and roll around at extremely high speeds.\nLong ago, people would tie bags of milk to domesticated Chillet as they grazed to produce butter using this spinning force."
+    "description": "它会蜷缩身体，并以迅疾的速度旋转移动。过去人们会在被服的疾旋鼬身上装上放牛奶的袋子再放牧以此利用它的旋转能力来制作黄油。"
   },
   {
-    "id": 56,
+    "id": 65,
     "key": "056",
     "name": "雷角马",
     "element": [
@@ -1666,10 +1955,10 @@
       "name": "疾风迅雷",
       "description": "可骑在它背上移动，骑乘期间会为玩家的攻击赋予雷属性。"
     },
-    "description": "It used to be considered an emissary of the Thunder God, and thus was not hunted by people.\nHowever, after witnesses osberved one die from a lightning strike, its reverence faded, and it quite literally fell into the role of a workhorse."
+    "description": "以前，它被认为是雷神的使者，不会被人类狩猎。然而，当有人目击到它被闪电击中后死亡，信仰遂渐消失，它也字面意思上落到当牛做马。"
   },
   {
-    "id": 57,
+    "id": 66,
     "key": "057",
     "name": "吹雪狐",
     "element": [
@@ -1690,10 +1979,10 @@
       "name": "极光的指引",
       "description": "若它在队伍中，冰属性帕鲁的攻击力会有所提升。"
     },
-    "description": "On nights when the aurora is visible, it looks up towards the sky and begins to howl a beautiful song. This does, however, leave it vulnerable to attacks from enemies."
+    "description": "当极光在夜空中闪耀时这种帕鲁会仰望天空，以美妙的噪音歌唱。但这个习性也让它非常容易被敌人锁定。"
   },
   {
-    "id": 58,
+    "id": 67,
     "key": "058",
     "name": "火麒麟",
     "element": [
@@ -1718,10 +2007,39 @@
       "name": "赤兔马",
       "description": "可骑在它背上移动，骑乘期间会为玩家的攻击赋予火属性。"
     },
-    "description": "It's entire body has evolved into a highly efficient radiator, gifting it with astounding stamina.\nWhen someone has mounted it, this Pal takes caution not to burn them."
+    "description": "这种帕鲁全身都是高效的散热器官，使它能够发挥惊人的耐力。当有人坐在它身上时，它会注意不烫伤对方。"
   },
   {
-    "id": 59,
+    "id": 68,
+    "key": "058B",
+    "name": "邪麒麟",
+    "element": [
+      "fire",
+      "dark"
+    ],
+    "work_suitability": [
+      {
+        "type": "kindling",
+        "level": 2
+      },
+      {
+        "type": "lumbering",
+        "level": 1
+      }
+    ],
+    "food": 5,
+    "drop_items": [
+      "喷火器官",
+      "皮革"
+    ],
+    "skill": {
+      "name": "黑兔马",
+      "description": "可骑在它背上移动，骑乘期间会为玩家的攻击赋予火属性。"
+    },
+    "description": "这种帕鲁会燃烧神秘的暗物质以获取能量并将剩余的暗粒子排出体外。它在背上有人时会控制排放量，以免该人被黑暗侵蚀"
+  },
+  {
+    "id": 69,
     "key": "059",
     "name": "严冬鹿",
     "element": [
@@ -1748,10 +2066,10 @@
       "name": "冰凉之躯",
       "description": "可骑在它背上移动，骑乘期间不会感受到炎热。"
     },
-    "description": "Its transparent cerulean antlers glow with the cold of absolute zero. Any who touch them with their bare hands are instantly frozen over and smashed into pieces."
+    "description": "它碧蓝通透的尖角闪耀着绝对零度的光芒。如果用手直接碰触，全身会立即冻结，连同性命一起崩解四散。"
   },
   {
-    "id": 60,
+    "id": 70,
     "key": "060",
     "name": "霹雳犬",
     "element": [
@@ -1771,10 +2089,10 @@
       "name": "跳跃力",
       "description": "可骑在它的背上移动，骑乘期间可以二段跳。"
     },
-    "description": "At full speed, it could be mistaken for a bolt of lightning. If two Rayhounds collide, the sound is like that of a powerful thunderclap."
+    "description": "当它全速冲刺时就宛如一道闪电一般。如果露雳犬同类之间发生冲突，更会不断响起雷鸣般的轰隆声。"
   },
   {
-    "id": 61,
+    "id": 71,
     "key": "061",
     "name": "苍焰狼",
     "element": [
@@ -1795,10 +2113,10 @@
       "name": "心无杂念",
       "description": "可骑在它的背上移动，骑乘期间不会受到寒冷或炎热的影响。"
     },
-    "description": "Despite its appearance, Kitsun is extremely sensitive and will flee into a cave when spooked. Long ago, it was considered and ill omen if one were found nearby."
+    "description": "性格极为纤细敏感遇到讨厌的事物，就会躲在洞窟里不愿出来而古人们也认为，若苍焰狼躲藏起来则是一种不吉之兆。"
   },
   {
-    "id": 62,
+    "id": 72,
     "key": "062",
     "name": "雷鸣童子",
     "element": [
@@ -1826,10 +2144,10 @@
       "name": "雷电姑娘",
       "description": "若它在队伍中，就会出现在玩家身边，它会配合玩家的攻势以落雷追击。"
     },
-    "description": "Often kind to lonely pals.\nHowever, the moment a Pal mistakes this for actual companionship, it seizes the opportunity to blast them with a thunderbolt."
+    "description": "它对孤单的帕鲁往往很和噶可亲。但要是有误会了什么的帕鲁因此缠上它。它就会立即用雷击解决掉对方。"
   },
   {
-    "id": 63,
+    "id": 73,
     "key": "063",
     "name": "秘斯媞雅",
     "element": [
@@ -1857,10 +2175,10 @@
       "name": "反重力",
       "description": "若秘斯媞雅在队伍中，就能通过它的反重力提高玩家的负重上限。"
     },
-    "description": "It can control those who carelessly stare into its eyes. Those seen with a Lunaris are in its mind, simply under its control."
+    "description": "要是不小心和它对视，就会被操纵。大部分带着秘斯雅的人都以为自己是主人。"
   },
   {
-    "id": 64,
+    "id": 74,
     "key": "064",
     "name": "花冠龙",
     "element": [
@@ -1885,10 +2203,38 @@
       "name": "馥郁花香之龙",
       "description": "可骑在它的背上移动，骑乘期间的草属性攻击将得到强化。"
     },
-    "description": "A Pal who once angered cannot be pacified. It rages on and on like an inferno. The prahse \"step on a Dinossom's tail\" has come to mean enraging someone."
+    "description": "它只要生气便会暴走，如同烈火一般不受控制。因此踩了“花冠龙”尾巴这句话就是指激怒某人的意思。"
   },
   {
-    "id": 65,
+    "id": 75,
+    "key": "064B",
+    "name": "雷冠龙",
+    "element": [
+      "electric",
+      "dragon"
+    ],
+    "work_suitability": [
+      {
+        "type": "generating_electricity",
+        "level": 2
+      },
+      {
+        "type": "lumbering",
+        "level": 2
+      }
+    ],
+    "food": 6,
+    "drop_items": [
+      "小麦种子"
+    ],
+    "skill": {
+      "name": "落雷绽放之龙",
+      "description": "可骑在它的背上移动，骑乘期间的雷属性攻击将得到强化。"
+    },
+    "description": "它會被落雷击中，但幸运地捡回一条命。因此“雷落雷冠龙”这句话就是指九死一生，大难不死的意思。"
+  },
+  {
+    "id": 76,
     "key": "065",
     "name": "滑水蛇",
     "element": [
@@ -1908,10 +2254,33 @@
       "name": "滑滑水蛇",
       "description": "可骑在它的背上移动，骑乘期间在水上移动不会消耗体力。"
     },
-    "description": "Its hydrodynamic form is well suited to life in water.\nPoachers often catch them and use them in place of surfboards."
+    "description": "它流线型的外形很适合在水上活动。因此经常被非法捕鱼团捕捉，并被拿来代替冲浪板使用。"
   },
   {
-    "id": 66,
+    "id": 77,
+    "key": "065B",
+    "name": "流沙蛇",
+    "element": [
+      "water"
+    ],
+    "work_suitability": [
+      {
+        "type": "gathering",
+        "level": 1
+      }
+    ],
+    "food": 5,
+    "drop_items": [
+      "帕鲁的体液"
+    ],
+    "skill": {
+      "name": "滑滑沙蛇",
+      "description": "可骑在它的背上移动。"
+    },
+    "description": "它流线型的外形很适合在沙上活动。因此经常被非法捕鱼团捕捉，并被拿来代替冲浪板使用。"
+  },
+  {
+    "id": 78,
     "key": "066",
     "name": "噬魂兽",
     "element": [
@@ -1936,10 +2305,10 @@
       "name": "冥界使者",
       "description": "可骑在它的背上移动，骑乘期间会为玩家的攻击赋予暗属性。"
     },
-    "description": "It relishes the peculiar scent living things give off when they are near death. If a Mariath has taken a liking to you. It is safe to assume that is why."
+    "description": "它喜欢生物濒死时身体所散发的独特气味。因此一旦被噬魂兽黏上了，也就代表着大限将至。"
   },
   {
-    "id": 67,
+    "id": 79,
     "key": "067",
     "name": "碎岩龟",
     "element": [
@@ -1960,10 +2329,10 @@
       "name": "钻头粉碎者",
       "description": "发动后会进入甲壳回旋状态，它会一边旋转一边跟随玩家并有效率的破坏矿石。"
     },
-    "description": "A walking contradiction, possessing the strongest shell and the only drill capable of piercing it. \"Digtoise's Fable\" is a popular children's tale."
+    "description": "过去有则寓言故事叫做“碎岩龟的钻头”这则故事的内容是：碎岩龟拥有最坚固的甲壳和最坚硬的钻头，由此在道德层面引发人们对矛盾的思考。"
   },
   {
-    "id": 68,
+    "id": 80,
     "key": "068",
     "name": "猫蝠怪",
     "element": [
@@ -1992,10 +2361,10 @@
       "name": "超音波感应",
       "description": "发动后就能以超音波探测附近的帕鲁位置。"
     },
-    "description": "Often appears out of the blue to flaunt its prized wings in front of other Pals.\nAlthough it seems to be an intimidation tactic, the Pal seems to derive some kind of pleasure from the display."
+    "description": "它喜欢突然出现在其他帕鲁面前，傲慢地张开双翼炫耀自己。虽然是一种恐吓行为，但它脸上却带有几分陶醉的神情。"
   },
   {
-    "id": 69,
+    "id": 81,
     "key": "069",
     "name": "博爱蜥",
     "element": [
@@ -2030,10 +2399,10 @@
       "name": "爱心吸取",
       "description": "与它并肩作战时，可为玩家及博爱蜥赋予窃取生命效果，此效果可在施加伤害时吸收一部份伤害并回复HP。"
     },
-    "description": "Seeking a night of love, it is always chasing someone around. At first, it only showed interest in other Pals, but in recent years even humans have become the target of its debauchery."
+    "description": "它总是为了寻求一夜之欢而纠缠他人。开始只对帕鲁有兴趣。但近年来，它的魔爪也开始伸向人类。"
   },
   {
-    "id": 70,
+    "id": 82,
     "key": "070",
     "name": "熔焰娘",
     "element": [
@@ -2066,10 +2435,10 @@
       "name": "熔岩之泪",
       "description": "将它分派到家畜牧场，有机会制造出喷火器官。"
     },
-    "description": "When it starts crying, this Pal produces magma in place of tears. The magma that pours out is absorbed back into its body, causing it to get hotter and hotter. The more it cries, the stronger it becomes."
+    "description": "这种帕鲁哭泣时流的不是眼泪，而是岩浆。而这些岩浆更会被身体吸收，使它的驱体越来越炎热。换言之，流过的眼泪越多，它就越强。"
   },
   {
-    "id": 71,
+    "id": 83,
     "key": "071",
     "name": "烽歌龙",
     "element": [
@@ -2096,10 +2465,40 @@
       "name": "太空袭击者",
       "description": "可骑在它的背上在空中飞行，骑乘期间攻击敌人的弱点部位能造成更多的伤害。"
     },
-    "description": "The melodies of a flute made from the exoskeleton of a Vanwyrm are said to cross the whole mountain ranges.\nIn ages past, such flutes were used to signal an attack."
+    "description": "据说用烽歌龙的外骨骼制成的笛子所奏的笛声可越遍千山万水，因此在古代战事中通常会被用来发出攻击信号。"
   },
   {
-    "id": 72,
+    "id": 84,
+    "key": "071B",
+    "name": "霜歌龙",
+    "element": [
+      "ice",
+      "dark"
+    ],
+    "work_suitability": [
+      {
+        "type": "cooling",
+        "level": 2
+      },
+      {
+        "type": "transporting",
+        "level": 3
+      }
+    ],
+    "food": 6,
+    "drop_items": [
+      "骨头",
+      "红宝石",
+      "金币"
+    ],
+    "skill": {
+      "name": "太空袭击者",
+      "description": "可骑在它的背上在空中飞行，骑乘期间攻击敌人的弱点部位能造成更多的伤害。"
+    },
+    "description": "据说用霜歌龙的外骨骼制成的笛子所奏的笛声可越遍千山万水，因此在古代战事中通常会被用来发出攻击信号。"
+  },
+  {
+    "id": 85,
     "key": "072",
     "name": "浪刃武士",
     "element": [
@@ -2136,10 +2535,10 @@
       "name": "紫电一闪",
       "description": "发动后会以威力极高的居合斩攻击锁定的目标敌人。"
     },
-    "description": "Its body becomes a blade upon death, to be taken up by the next generation. If someone other than a Bushi wields this blade, the soul within torments them until they are driven mad."
+    "description": "它在死亡时身体会化为刀，由下一代继承。浪刃武士以外的生物拿到这把刀时，会因承受不住它的亡者之声而发狂。"
   },
   {
-    "id": 73,
+    "id": 86,
     "key": "073",
     "name": "迅雷鸟",
     "element": [
@@ -2167,10 +2566,10 @@
       "name": "天雷",
       "description": "可骑在它的背上在空中飞行，骑乘期间它会为玩家的攻击赋予雷属性。"
     },
-    "description": "Some think it is a related species to Ragnahawk, but there is in fact no connection. Using its sharp beak, it descends on its prey in a quick motion that resembles a bolt of lightning."
+    "description": "虽说与迅雷鸟外形相似，但并无任何关系。它会采用快速俯冲，并用尖锐的喙击败敌人。那身姿宛如落雷一般。"
   },
   {
-    "id": 74,
+    "id": 87,
     "key": "074",
     "name": "燧火鸟",
     "element": [
@@ -2194,10 +2593,10 @@
       "name": "烈焰之翼",
       "description": "可骑在它的背上在空中飞行，骑乘期间它会为玩家的攻击赋予火属性。"
     },
-    "description": "Some think it is a related species to Beakon, but there is in fact no connection. It mainly eats rocks, and after many long years its beak and head have hardened to accommodate this diet."
+    "description": "虽说与迅雷鸟外形相似，但并无任何关系。它会采用快速俯冲，并用尖锐的喙击败敌人。那身姿宛如落雷一般。"
   },
   {
-    "id": 75,
+    "id": 88,
     "key": "075",
     "name": "暗巫猫",
     "element": [
@@ -2227,10 +2626,10 @@
       "name": "魔导书收藏家",
       "description": "与它并肩作战时，若击倒无属性的帕鲁，就能从该帕鲁身上获得更多掉落道具。"
     },
-    "description": "With the power of shadows it produces arcane phenomena. It prefers to eat food raw and is particularly hostile towards Wixen"
+    "description": "这种帕鲁能操控阴之力量，施展奇妙的法术。不论任何食物都喜欢生吃。和焰巫狐的关相当不好。"
   },
   {
-    "id": 76,
+    "id": 89,
     "key": "076",
     "name": "焰巫狐",
     "element": [
@@ -2259,10 +2658,10 @@
       "name": "狐神大人",
       "description": "与它并肩作战时，它会为玩家的攻击赋予火属性。"
     },
-    "description": "With the power of light, it produces arcane phenomena. It prefers to eat food well-done and is particularly hostile towards Katress."
+    "description": "它能够操纵阳之力，施展奇怪的法术。所有食物都喜欢吃全熟的。与暗巫猫关系恶劣。"
   },
   {
-    "id": 77,
+    "id": 90,
     "key": "077",
     "name": "踏春兔",
     "element": [
@@ -2299,10 +2698,10 @@
       "name": "草原飞速之星",
       "description": "与它并肩作战时，玩家的移动速度会有所提升，且它还会为玩家的攻击赋予草属性。"
     },
-    "description": "Land that Verdash has run across becomes extremely fertile, with thick vegetation growing there soon after. It will not run anywhere that herbicide has been used."
+    "description": "踏春兔跑过的地面会变得土质肥沃，草木也会长得很茂盛。但如果喷上除草剂后，它们就不会在这里跑动了。"
   },
   {
-    "id": 78,
+    "id": 91,
     "key": "078",
     "name": "薇莉塔",
     "element": [
@@ -2339,10 +2738,10 @@
       "name": "大地净化",
       "description": "与它并肩作战时，若击倒地属性的帕鲁，就能从该帕鲁身上获得更多掉落道具。"
     },
-    "description": "The castle was filled with the king's favorite flowers. A great battle ensued, and flames approached the castle. Amidst the chaos, the spirit of a flower appeared.\n- From the fairy tale, The King's Flower."
+    "description": "城堡里开满了国王最喜欢的花朵但大型战争爆发，战火即将波及城堡。这时，一只花朵精灵凭空出现了。摘自童话《国王的花朵》"
   },
   {
-    "id": 79,
+    "id": 92,
     "key": "079",
     "name": "绸笠蛾",
     "element": [
@@ -2371,10 +2770,10 @@
       "name": "吐丝者",
       "description": "发动后会以威力极高的钻石星辰攻击锁定的敌人。将它分派到家畜牧场，它就有机会制造出优质布。"
     },
-    "description": "A Pal that likes the rain,and will often bask in rain showers until the weather clears up. On rainy days, Foxparks can often be found taking shelter beneath it."
+    "description": "它喜欢下雨天气，每当下雨，它总会站在原地不动享受雨水。火绒狐会常常跑来躲雨。"
   },
   {
-    "id": 80,
+    "id": 93,
     "key": "080",
     "name": "精灵龙",
     "element": [
@@ -2394,10 +2793,38 @@
       "name": "善良的圣洁之龙",
       "description": "可骑在它的背上在空中飞行。 与它并肩作战时，若击倒暗属性的帕鲁，就能从该帕鲁身上获得更多掉落道具。"
     },
-    "description": "It possesses a demeanor as pure as its appearance suggests. Perhaps because of this, it is sometimes unable to discern good from evil, often allowing wrongdoers to take advantage of it."
+    "description": "它的性格正如外表一样单纯无害。正因为如此，它无法很好地区分善恶，容易被内心歹毒的人利用。"
   },
   {
-    "id": 81,
+    "id": 94,
+    "key": "080",
+    "name": "精灵龙",
+    "element": [
+      "water",
+      "dragon"
+    ],
+    "work_suitability": [
+      {
+        "type": "lumbering",
+        "level": 2
+      },
+      {
+        "type": "watering",
+        "level": 3
+      }
+    ],
+    "food": 6,
+    "drop_items": [
+      "优质帕鲁油"
+    ],
+    "skill": {
+      "name": "善良的流水之龙",
+      "description": "可骑在它的背上在空中飞行。 与它并肩作战时，若击倒火属性的帕鲁，就能从该帕鲁身上获得更多掉落道具。"
+    },
+    "description": "它的性格正如外表一样单纯无害。正因为如此，它所采取的所有行动都无恶意即便是杀死了谁，也不会有任何想法。"
+  },
+  {
+    "id": 95,
     "key": "081",
     "name": "水灵儿",
     "element": [
@@ -2418,10 +2845,34 @@
       "name": "洒水",
       "description": "若它在队伍中，水属性帕鲁的攻击力会有所提。"
     },
-    "description": "Its personality changes depending on the quality of the water it was born into. Kelpsea born into polluted waters are generally ill-tempered and quickly become delinquents."
+    "description": "它的性格会因出生地水质的不同而有所差异。出生于脏水源地的“水灵儿”大多都性格恶劣，一副街边混混的派头。"
   },
   {
-    "id": 82,
+    "id": 96,
+    "key": "081B",
+    "name": "火灵儿",
+    "element": [
+      "water"
+    ],
+    "work_suitability": [
+      {
+        "type": "kindling",
+        "level": 1
+      }
+    ],
+    "food": 1,
+    "drop_items": [
+      "水灵儿的鱼肉",
+      "喷火器官"
+    ],
+    "skill": {
+      "name": "熔岩泼洒",
+      "description": "若它在队伍中，火属性帕鲁的攻击力会有所提。"
+    },
+    "description": "它的个性会因出生地的水温而有所不同。诞生于温暖水源地的水灵儿往往较为热情，充满源源不绝的干劲。"
+  },
+  {
+    "id": 97,
     "key": "082",
     "name": "碧海龙",
     "element": [
@@ -2442,10 +2893,10 @@
       "name": "水翔之舞",
       "description": "可骑在它的背上在水上移动，骑乘期间它会为玩家的攻击赋予水属性。"
     },
-    "description": "This Pal's white ribbon turns black if doused with impure water. Given its usefulness in detecting poison, this Pal was once overhunted. This past has left them bitter towards humanity."
+    "description": "它的白色飘带遇到不纯之水就会变黑由于它的这种特质可以用于鉴毒，會致使人类对其疯狂猎捕导致它至今仍对人类抱有戒心。"
   },
   {
-    "id": 83,
+    "id": 98,
     "key": "083",
     "name": "冰棘兽",
     "element": [
@@ -2473,10 +2924,10 @@
       "name": "猎龙者",
       "description": "与它并肩作战时，若击倒龙属性的帕鲁，就能从该帕鲁身上获得更多掉落道具。"
     },
-    "description": "It can easily climb steep mountains with its hard claws. However, its short legs make it difficult to descend, often leaving it stranded in high places."
+    "description": "它的那双坚硬的爪子可使它轻而易举地登上险峻的山岭可是因为腿短的关系，并不擅长下山，因此常常把自己困在山上，难以抽身。"
   },
   {
-    "id": 84,
+    "id": 99,
     "key": "084",
     "name": "狱焰王",
     "element": [
@@ -2500,10 +2951,37 @@
       "name": "狱炎狮子",
       "description": "可骑在它的背上移动。与它并肩作战时，若击倒草属性的帕鲁，就能从该帕鲁身上获得更多掉落道具。"
     },
-    "description": "While it prefers raw meat, it always ends up eating well-done meat. This is due to its blistering claws, which it uses as its weapon—it simply doesn't realize its prey gets burned to a crisp."
+    "description": "它比较喜欢吃生肉，但每次吃到肚里的都成了全熟的肉。这是因为它以灼热利爪为武器，但却不知猎物会因此被烤成焦炭。"
   },
   {
-    "id": 85,
+    "id": 100,
+    "key": "084B",
+    "name": "狱阎王",
+    "element": [
+      "fire"
+    ],
+    "work_suitability": [
+      {
+        "type": "kindling",
+        "level": 3
+      },
+      {
+        "type": "lumbering",
+        "level": 2
+      }
+    ],
+    "food": 7,
+    "drop_items": [
+      "喷火器官"
+    ],
+    "skill": {
+      "name": "黑炎狮子",
+      "description": "可骑在它的背上移动。与它并肩作战时，若击倒无属性的帕鲁，就能从该帕鲁身上获得更多掉落道具。"
+    },
+    "description": "它比较喜欢吃正常的肉，但每次吃到肚里的都成了受污染的肉。这是因为它以暗黑利爪为武器，但却不知猎物会因此受到诅咒。"
+  },
+  {
+    "id": 101,
     "key": "085",
     "name": "佩克龙",
     "element": [
@@ -2529,10 +3007,39 @@
       "name": "饿饿飞弹",
       "description": "可骑在它的背上移动。骑乘期间它还能用导弹发射器连续攻击。"
     },
-    "description": "Contrary to its blasé appearance, it's quite ferocious.\nIt perceives everything in its sight as prey and will stop at nothing to devour it."
+    "description": "虽然看起来无精打采，但实际上相当凶猛。它将眼中所见之物全部视为食物，并不惜一切代价捕食。"
   },
   {
-    "id": 86,
+    "id": 102,
+    "key": "085B",
+    "name": "佩克龙",
+    "element": [
+      "dragon",
+      "electric"
+    ],
+    "work_suitability": [
+      {
+        "type": "generating_electricity",
+        "level": 3
+      },
+      {
+        "type": "transporting",
+        "level": 1
+      }
+    ],
+    "food": 7,
+    "drop_items": [
+      "优质帕鲁油",
+      "红宝石"
+    ],
+    "skill": {
+      "name": "飞弹盛宴",
+      "description": "可骑在它的背上移动。骑乘期间它还能用导弹发射器连续攻击。"
+    },
+    "description": "佩克龙突发奇想是时候让自己做出些改变了。那个瞬间，灵感就像雷电贯穿了它的全身！"
+  },
+  {
+    "id": 103,
     "key": "086",
     "name": "连理龙",
     "element": [
@@ -2553,10 +3060,35 @@
       "name": "超载的爱情",
       "description": "可骑在他的背上移动。若连理龙在队伍中，它就会帮忙载运行李，提高玩家的负重上限。"
     },
-    "description": "Its scent drastically changes before and after pairing.\nIt exudes a pleasing aroma after finding a partner, which is called the \"fragrance of first love.\""
+    "description": "它在交配前后，体味会发生巨大变化。人们认为它找到伴侣后的香味芳香迷人并将其称为“初恋之香”"
   },
   {
-    "id": 87,
+    "id": 104,
+    "key": "086",
+    "name": "连理龙",
+    "element": [
+      "grass",
+      "water"
+    ],
+    "work_suitability": [
+      {
+        "type": "watering",
+        "level": 3
+      }
+    ],
+    "food": 7,
+    "drop_items": [
+      "连理龙恐龙肉",
+      "生菜种子"
+    ],
+    "skill": {
+      "name": "超载的爱情",
+      "description": "可骑在他的背上移动。若连理龙在队伍中，它就会帮忙载运行李，提高玩家的负重上限。"
+    },
+    "description": "它在交配前后，体味会发生巨大变化。人们认为它找到伴侣前的香味芳香迷人将其称为“纯洁之香”"
+  },
+  {
+    "id": 105,
     "key": "087",
     "name": "花丽娜",
     "element": [
@@ -2594,10 +3126,10 @@
       "name": "花精灵的祝福",
       "description": "发动后可通过花朵的治愈能力，来恢复玩家的生命值。"
     },
-    "description": "A pal that transforms into a massive plant when at the end of its life. Once every ten years, a beautiful flower blooms and a new Petallia is born."
+    "description": "在寿命已尽时，会变成一株巨大的植物。之后每十年绽放出美丽的花朵，而新的花丽娜将会从中诞生。"
   },
   {
-    "id": 88,
+    "id": 106,
     "key": "088",
     "name": "熔岩兽",
     "element": [
@@ -2622,10 +3154,38 @@
       "name": "贪食矿石之兽",
       "description": "可骑在他的背上移动，骑乘期间破坏矿石的效率会更高。"
     },
-    "description": "Magma-like blood runs throughout its body. If a large amount of water is thrown on it, this water rapidly heats, causing an immense vapor explosion."
+    "description": "它的全身上下都流消着如岩浆般的血液。若往它身上大量泼水，这些水会瞬间遇热蒸发。随后便会引发大规模的水蒸气爆炸。"
   },
   {
-    "id": 89,
+    "id": 107,
+    "key": "088B",
+    "name": "寒霜兽",
+    "element": [
+      "ice",
+      "ground"
+    ],
+    "work_suitability": [
+      {
+        "type": "cooling",
+        "level": 3
+      },
+      {
+        "type": "mining",
+        "level": 3
+      }
+    ],
+    "food": 5,
+    "drop_items": [
+      "结冰器官"
+    ],
+    "skill": {
+      "name": "贪食冰霜之兽",
+      "description": "可骑在他的背上移动，骑乘期间破坏矿石的效率会更高。"
+    },
+    "description": "它的全身上下都流消着超低温的血液。若突然往它身上施加热量，其血液会蒸发。随后便会引发天规模的蒸气爆炸。"
+  },
+  {
+    "id": 108,
     "key": "089",
     "name": "君王美露帕",
     "element": [
@@ -2639,17 +3199,44 @@
     ],
     "food": 7,
     "drop_items": [
-      "羊毛",
-      "蛋"
+      "羊毛"
     ],
     "skill": {
       "name": "大力国王",
       "description": "可骑在它的背上移动，若君王美露帕在队伍中，它就会帮忙载运行李，提高玩家的负重上限。"
     },
-    "description": "Melpaca serve this Pal.\nContests between Kingpaca offer up their vassals as a wager. Those seen alone are losers of such contests."
+    "description": "统领着美露帕们。君王美露帕之间的决斗，会以族群的统治权为赌注。孤身一只的个体就是输家。"
   },
   {
-    "id": 90,
+    "id": 109,
+    "key": "089B",
+    "name": "冰帝美露帕",
+    "element": [
+      "ice"
+    ],
+    "work_suitability": [
+      {
+        "type": "gathering",
+        "level": 1
+      },
+      {
+        "type": "cooling",
+        "level": 3
+      }
+    ],
+    "food": 7,
+    "drop_items": [
+      "羊毛",
+      "结冰器官"
+    ],
+    "skill": {
+      "name": "大力国王",
+      "description": "可骑在它的背上移动，若君王美露帕在队伍中，它就会帮忙载运行李，提高玩家的负重上限。"
+    },
+    "description": "他性格冷淡，不擅长表达情感。这个孤独的个体对美露帕来说，太过笨拙，是个可悲的个体。"
+  },
+  {
+    "id": 110,
     "key": "090",
     "name": "森猛犸",
     "element": [
@@ -2679,11 +3266,80 @@
       "name": "盖亚粉碎者",
       "description": "可骑在它的背上移动，骑乘期间破坏树木和矿石的效率会更高。"
     },
-    "description": "The vegetation on its back varies between individuals. There is a long history of appreciating this veritable garden of a Pal, and there are even Mammorest pruning specialists."
+    "description": "这种帕鲁背上的植被因个体而异。有段时间會被视为观赏帕鲁而受人喜爱甚至會经出现过森猛犸的专业修剪师。"
   },
   {
-    "id": 91,
+    "id": 111,
+    "key": "090B",
+    "name": "雪猛犸",
+    "element": [
+      "ice"
+    ],
+    "work_suitability": [
+      {
+        "type": "cooling",
+        "level": 2
+      },
+      {
+        "type": "lumbering",
+        "level": 2
+      },
+      {
+        "type": "mining",
+        "level": 2
+      }
+    ],
+    "food": 8,
+    "drop_items": [
+      "优质帕鲁油",
+      "皮革",
+      "森猛犸巨兽肉"
+    ],
+    "skill": {
+      "name": "冰霜粉碎者",
+      "description": "可骑在它的背上移动，骑乘期间破坏树木和矿石的效率会更高。"
+    },
+    "description": "雪猛犸背部的植被因个体而异它的背上會发现过被认为已经灭绝的冰冻植物种子，在冷冻状态下保存良好。"
+  },
+  {
+    "id": 112,
     "key": "091",
+    "name": "白绒雪怪",
+    "element": [
+      "ice"
+    ],
+    "work_suitability": [
+      {
+        "type": "handiwork",
+        "level": 2
+      },
+      {
+        "type": "lumbering",
+        "level": 3
+      },
+      {
+        "type": "planting",
+        "level": 1
+      },
+      {
+        "type": "transporting",
+        "level": 4
+      }
+    ],
+    "food": 8,
+    "drop_items": [
+      "结冰器官",
+      "美丽花朵"
+    ],
+    "skill": {
+      "name": "雪山巨人",
+      "description": "可骑在它的背上移动。若白绒雪怪在队伍中，它就会帮忙载运行李，提高玩家的负重上限。"
+    },
+    "description": "研究者为了揭开它的内部结构，而将它的毛发剃光。结果只剩下满地毛发，仿佛从最开始这团毛发里面就空无一物。"
+  },
+  {
+    "id": 113,
+    "key": "091B",
     "name": "白绒雪怪",
     "element": [
       "ice"
@@ -2708,17 +3364,18 @@
     ],
     "food": 8,
     "drop_items": [
-      "结冰器官",
+      "生菜种子",
+      "番茄种子",
       "美丽花朵"
     ],
     "skill": {
-      "name": "雪山巨人",
+      "name": "南国巨人",
       "description": "可骑在它的背上移动。若白绒雪怪在队伍中，它就会帮忙载运行李，提高玩家的负重上限。"
     },
-    "description": "Researchers once tried to shave off its hair to reveal its true form. In the end, only hair was left, as if that was all there was to begin with."
+    "description": "研究者为了揭开它的内部结构，而将它身上的草都剃光。结果只剩下满地杂草仿佛从最开始这团草里面就空无一物。"
   },
   {
-    "id": 92,
+    "id": 114,
     "key": "092",
     "name": "铠格力斯",
     "element": [
@@ -2751,10 +3408,10 @@
       "name": "坚硬盔甲",
       "description": "与它并肩作战时，玩家的防御力会有所提升，且可减轻火属性的伤害。"
     },
-    "description": "The ultra-hard armor surrounding its body is extremely strong and heat resistant.\nEven a napalm blast would hardly leave a scratch."
+    "description": "它全身包裹着超强力装甲拥有难以比拟的强度和耐热性。即使是凝固汽油弹也拿它毫无办法。"
   },
   {
-    "id": 93,
+    "id": 115,
     "key": "093",
     "name": "云海鹿",
     "element": [
@@ -2775,10 +3432,10 @@
       "name": "风云",
       "description": "可骑在它的背上移动，骑乘期间可以进行二段跳。"
     },
-    "description": "In ancient times, it was a familiar subject for painting because of its beautiful and majestic appearance. Fenglope is an endangered species, the \"Fenglope\" whose beautiful fur and horns are much sought after by poachers!"
+    "description": "在过去，它因美丽的外观而常被选作绘画题材，是人们所熟知的帕鲁。随着时代变迁，它那美丽的皮毛和角成为了艺术品的材料使这种帕鲁更广为人知。"
   },
   {
-    "id": 94,
+    "id": 116,
     "key": "094",
     "name": "夜幕魔蝠",
     "element": [
@@ -2799,10 +3456,10 @@
       "name": "窃取生命",
       "description": "与它并肩作战时，可为玩家及夜幕魔蝠赋予窃取生命效果，此效果可在施加伤害时吸收一部份伤害并回覆HP。"
     },
-    "description": "Attacking from the shadows, this Pal traps its prey within its cloak-like wings. It's probably best not to know what happens within them, or why the inside of its wings are stained red."
+    "description": "它会在黑暗中袭击猎物，用斗篷般的翅膀将其包裹起来。至于翅膀内侧到底发生了什么，以及为什么会沾染上红色，这类问题还是不要深究为妙。"
   },
   {
-    "id": 95,
+    "id": 117,
     "key": "095",
     "name": "天羽龙",
     "element": [
@@ -2834,10 +3491,10 @@
       "name": "天空龙的慈爱",
       "description": "可骑在它的背上在空中飞行，骑乘期间的龙属性攻击将得到强化。"
     },
-    "description": "Sleeping while cuddling a Quivern is said to be a heavenly experience, but there are some who have been crushed and sent to heaven by ones that toss and turn in their sleep."
+    "description": "将天羽龙当作抱枕一同入睡就能体验如同身处天堂一般的舒适感。但如果个体的睡相很差，那么会因被压扁而进人天堂。"
   },
   {
-    "id": 96,
+    "id": 118,
     "key": "096",
     "name": "焰煌",
     "element": [
@@ -2862,10 +3519,10 @@
       "name": "熔岩凯撒",
       "description": "可骑在它的背上移动，骑乘期间的火属性攻击将得到强化。"
     },
-    "description": "This Pal is under investigation."
+    "description": "传说它是火山喷发之际一同诞生的产物。會有可疑的团体主张，这片大陆其实就是巨大焰煌的背。"
   },
   {
-    "id": 97,
+    "id": 119,
     "key": "097",
     "name": "雷冥鸟",
     "element": [
@@ -2886,10 +3543,10 @@
       "name": "冥府之翼",
       "description": "可骑在它的背上在空中飞行，骑乘期间它会为玩家的攻击赋予暗属性。"
     },
-    "description": "it calls forth lightning from the depths of hell. one who dies from helzephyr's inferno is sure to be sent to the underworld"
+    "description": "它能从地狱召唤雷电。如果被雷冥鸟烧死，灵魂将坠入地狱。"
   },
   {
-    "id": 98,
+    "id": 120,
     "key": "098",
     "name": "魔渊龙",
     "element": [
@@ -2915,10 +3572,10 @@
       "name": "黑铠之龙",
       "description": "可骑在它的背上在空中飞行，骑乘期间能对矿石造成更大的破坏。"
     },
-    "description": "A savage beast born of the abyss. Thou shall not stand before the beast. Thou shall not heed the beast."
+    "description": "来自深渊的暴乱之物。汝不得立于此兽身前。汝不得聆听此兽之声。"
   },
   {
-    "id": 99,
+    "id": 121,
     "key": "099",
     "name": "冥铠蝎",
     "element": [
@@ -2944,10 +3601,10 @@
       "name": "钢铁之蝎",
       "description": "与它并肩作战时，玩家的防御力会有所提升。若击倒雷属性的帕鲁，就能从该帕鲁身上获得更多掉落道具。"
     },
-    "description": "Being made of pure energy, its insides are completely hollow. This Pal crams still-living prey into its hollow body, where it absorbs them. Hellish screams of pain can often be heard coming from inside this Pal."
+    "description": "它的本体是一种能量体，内部是空的它会将猎物活生生地塞进外壳并将其吸收。周围总是不断回响着地狱般的呻吟声。"
   },
   {
-    "id": 100,
+    "id": 122,
     "key": "100",
     "name": "阿努比斯",
     "element": [
@@ -2977,10 +3634,10 @@
       "name": "沙漠守护神",
       "description": "与它并肩作战时，它会为玩家的攻击赋予地属性。战斗时偶尔会以高速移步回避攻击。"
     },
-    "description": "Once seen as a symbol of nobility, and an idol for those who shunned wealth and power. Yet over time, this Pal became a token of death."
+    "description": "它的外表会被视作高贵的象征。而在那些蔑视权贵的人眼里，它就成了醒目的标靶。于是在不知不觉间，阿努比斯成为了死亡的象征。"
   },
   {
-    "id": 101,
+    "id": 123,
     "key": "101",
     "name": "覆海龙",
     "element": [
@@ -3001,10 +3658,35 @@
       "name": "呼唤风暴的深海龙",
       "description": "可骑在它的背上在水中移动，骑乘期间在水上移动不会消耗体力。"
     },
-    "description": "Legends says the Jormuntide was once a wise man, who after being wrongly convicted and cast into a whirlpool, returned as this Pal to destroy those who wronged him."
+    "description": "传说有位贤者因莫须有罪名而被推入漩涡之后以覆海龙姿态重生，并一举歼灭了整个国家。"
   },
   {
-    "id": 102,
+    "id": 124,
+    "key": "101B",
+    "name": "腾炎龙",
+    "element": [
+      "dragon",
+      "fire"
+    ],
+    "work_suitability": [
+      {
+        "type": "kindling",
+        "level": 4
+      }
+    ],
+    "food": 7,
+    "drop_items": [
+      "优质帕鲁油",
+      "喷火器官"
+    ],
+    "skill": {
+      "name": "呼唤风暴的熔岩龙",
+      "description": "可骑在它的背上在水中移动，骑乘期的火属性攻击将得到强化。"
+    },
+    "description": "传说有位战士因冤罪而被推落火山随后以腾炎龙之姿复生并把整个国家烧成一片焦土。"
+  },
+  {
+    "id": 125,
     "key": "102",
     "name": "朱雀",
     "element": [
@@ -3024,10 +3706,33 @@
       "name": "炎之翼",
       "description": "可骑在它的背上在空中飞行，骑乘期间的火属性攻击将得到强化。"
     },
-    "description": "It was once believed to usher in the dry season. Whenever there was a drought in the previous year, people would relentlessly seek to cull it's numbers, hoping to bring a plentiful harvest in the next year."
+    "description": "过去人们认为它是带来旱季的使者。只要前一年发生千旱，人们就会全力驱逐这种帕鲁祈祷今年能够获得丰收。"
   },
   {
-    "id": 103,
+    "id": 126,
+    "key": "102B",
+    "name": "清雀",
+    "element": [
+      "water"
+    ],
+    "work_suitability": [
+      {
+        "type": "watering",
+        "level": 3
+      }
+    ],
+    "food": 9,
+    "drop_items": [
+      "帕鲁的体液"
+    ],
+    "skill": {
+      "name": "水之翼",
+      "description": "可骑在它的背上在空中飞行，骑乘期间的火属性攻击将得到强化。"
+    },
+    "description": "过去人们认为它是带来雨季的使者。只要前一年发生水患，人们就会全力驱逐这种帕鲁祈祷今年能够平安度过。"
+  },
+  {
+    "id": 127,
     "key": "103",
     "name": "暴电熊",
     "element": [
@@ -3060,10 +3765,10 @@
       "name": "黄色重型战车",
       "description": "可骑在它的背上移动，骑乘期间它还能用机关枪连续攻击。"
     },
-    "description": "With a friendly smile and a hardy physique, it is docile towards one it recognizes as a partner. For reasons unexplained, its personality undergoes a drastic change when wielding a minigun."
+    "description": "它拥有豪迈的笑容和强壮的体格。在自己认可的搭档面前会表现得相当温顺。可是不知为何，一旦拿到机关枪时就会性情大变。"
   },
   {
-    "id": 104,
+    "id": 128,
     "key": "104",
     "name": "百合女王",
     "element": [
@@ -3097,10 +3802,43 @@
       "name": "丰饶女神",
       "description": "发动后便能通过女王的疗愈能力，为玩家大量恢复生命值。"
     },
-    "description": "A docile Pal full of love.\nIt watches over small Pals who have lost their parents. It uses a full-power Solar Blast to discipline naughty Pals."
+    "description": "这是一种充满慈爱的温和帕鲁。会照顾失去双亲的小帕鲁们。管教方式是全力释放太阳光束。"
   },
   {
-    "id": 105,
+    "id": 129,
+    "key": "104B",
+    "name": "黑月女王",
+    "element": [
+      "dark"
+    ],
+    "work_suitability": [
+      {
+        "type": "handiwork",
+        "level": 3
+      },
+      {
+        "type": "medicine_production",
+        "level": 3
+      },
+      {
+        "type": "gathering",
+        "level": 2
+      }
+    ],
+    "food": 6,
+    "drop_items": [
+      "低品质药品",
+      "美丽花朵",
+      "革新技术书"
+    ],
+    "skill": {
+      "name": "幽光女神",
+      "description": "发动后便能通过女王的疗愈能力，为玩家大量恢复生命值。"
+    },
+    "description": "这是种风度翻翻且行为优雅的帕鲁。会使用超强巴掌对付无礼之人。但偶尔也会出现以此为乐的帕鲁。"
+  },
+  {
+    "id": 130,
     "key": "105",
     "name": "荷鲁斯",
     "element": [
@@ -3124,10 +3862,10 @@
       "name": "灼热捕食者",
       "description": "可骑在它的背上在空中飞行，与它并肩作战时，若击倒冰属性的帕鲁，就能从该帕鲁身上获得更多掉落道具。"
     },
-    "description": "When it finds its prey it unleashes a whirlwind of flames, burning the entire area to ash. Faleris breath is known for its pleasing scent."
+    "description": "旦它发现猎物的族群时会用灼热的旋风将那一带烧毁。因此荷鲁斯的栖息地总是飘荡着美味的气息。"
   },
   {
-    "id": 106,
+    "id": 131,
     "key": "106",
     "name": "波鲁杰克斯",
     "element": [
@@ -3156,10 +3894,10 @@
       "name": "凶猛的迅雷龙",
       "description": "与它并肩作战时，若击倒冰属性的帕鲁，就能从该帕鲁身上获得更多掉落道具。"
     },
-    "description": "This Pal is under investigation."
+    "description": "它的电击能从伤口进入，以此灼烧对手的全身波鲁杰克斯同类之间发生的争吵，能在一瞬间决出胜负。"
   },
   {
-    "id": 107,
+    "id": 132,
     "key": "107",
     "name": "异构格里芬",
     "element": [
@@ -3181,10 +3919,10 @@
       "name": "基因改造",
       "description": "可骑在它的背上在空中飞行，骑乘期间的暗属性攻击将得到强化。"
     },
-    "description": "Forbidden existence born of madness.\nAs he lost his genetic relationship with the other Pals, he may no longer be considered one of them."
+    "description": "于癫狂尽头诞生的禁忌之存在。它已与其他帕鲁毫无任何基因上的关联，可能其存在早已脱离了帕鲁的范畴。"
   },
   {
-    "id": 108,
+    "id": 133,
     "key": "108",
     "name": "圣光骑士",
     "element": [
@@ -3209,10 +3947,10 @@
       "name": "天翔圣骑士",
       "description": "可骑在它的背上移动，骑乘期间可以进行三段跳。"
     },
-    "description": "In the past, he and Necromus were a single species.\nThey say that they are an existence that has freed themselves from all negative feelings, but the depths of their eyes harbor traces of resentment."
+    "description": "曾与混沌骑士同为一体。虽然它是被去除负面情绪后诞生的存在但它的眼眸深处仍留有些许仇恨。"
   },
   {
-    "id": 109,
+    "id": 134,
     "key": "109",
     "name": "混沌骑士",
     "element": [
@@ -3235,12 +3973,12 @@
     ],
     "skill": {
       "name": "深渊黑骑士",
-      "description": "可骑在它的背上移动，骑乘期间可以进行二段跳。"
+      "description": "可骑在它的背上移动，骑乘期间可以进行三段跳。"
     },
-    "description": "Once he and Paladius were a single species.\nThey say it is the manifestation of negative feelings, but the depths of their eyes contain traces of compassion."
+    "description": "曾与圣光骑士同为一体。虽是分离后的负面情感所构成的身姿但其眼眸深处仍留有着些许慈悲。"
   },
   {
-    "id": 110,
+    "id": 135,
     "key": "110",
     "name": "唤冬兽",
     "element": [
@@ -3261,10 +3999,34 @@
       "name": "冰天马",
       "description": "可骑在它的背上在空中飞行，骑乘期间玩家的攻击会转变为冰属性，冰属性的攻击会得到强化。"
     },
-    "description": "Guardian deity of Palpagos Island, known as the Winter Caller. In the past, when a calamity struck the land, it soared into the sky and sealed away the threat by casting the island into an eternal winter."
+    "description": "帕洛斯群岛之守护神，拥呼唤严冬之力。其會于灾厄席大地之际腾空而起唤来无尽寒冬，试图封印灾厄。"
   },
   {
-    "id": 111,
+    "id": 136,
+    "key": "110B",
+    "name": "唤夜兽",
+    "element": [
+      "dark"
+    ],
+    "work_suitability": [
+      {
+        "type": "gathering",
+        "level": 4
+      }
+    ],
+    "food": 7,
+    "drop_items": [
+      "纯水晶",
+      "大型帕鲁之魂"
+    ],
+    "skill": {
+      "name": "黑天马",
+      "description": "可骑在它的背上在空中飞行，骑乘期间玩家的攻击会转变为冰属性，冰属性的攻击会得到强化。"
+    },
+    "description": "帕洛斯群岛之守护神，拥呼唤严冬之力。其會于灾厄席大地之际腾空而起唤来无尽暗夜，试图封印灾厄。"
+  },
+  {
+    "id": 137,
     "key": "111",
     "name": "空涡龙",
     "element": [
@@ -3287,6 +4049,6 @@
       "name": "地毯式轰炸",
       "description": "可骑在它的背上在空中飞行，骑乘期间玩家的攻击会转变为暗属性，暗属性的攻击会得到强化。"
     },
-    "description": "Look over the island of Palpagos from the ends of the sky.\nWhen the calamity awakens again, splitting the earth and setting the heavens on fire, he will destroy it with a glare of complete obliteration."
+    "description": "居于遥远高空，守护帕洛斯群岛。当灾厄再度醒，大地崩裂，天空化作火海之际，它将以破灭方物之光摧毁灾厄。"
   }
 ]
